@@ -1,0 +1,8 @@
+---
+entries:
+- title: 贡献内容
+  url: "/index.html"
+- title: NetApp 文档的模式
+  url: "/style.html"
+- title: AsciiDoc 参考
+  url: "/asciidoc_syntax.html"

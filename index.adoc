@@ -1,0 +1,97 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+---
+= 在 GitHub 中提供 NetApp 技术内容
+:toc: macro
+:hardbreaks:
+:toc: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+NetApp 的多种产品和服务的文档均为开源文档。这样，您就可以直接对内容进行贡献，以进行改进，更正和提出建议。您只需要一个 GitHub 帐户和一个小计划即可。
+
+您可以直接编辑页面或请求我们进行更改。如果您需要有关我们的编写方式和语法的帮助，请使用以下资源：
+
+* link:asciidoc_syntax.html["查看文档源的语法"]
+* link:style.html["查看 NetApp 文档的风格和声音"]
+
+
+.步骤
+. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]。
+. 登录到您的 GitHub 帐户。
+. 使用浏览器打开要提供信息的页面。
++
+您可以直接编辑此页面，也可以请求更改此页面。
+
+. 要编辑页面，请执行以下操作：
++
+.. 在 " 贡献 " 下，单击 * 在 GitHub 上编辑 * 。
++
+image:diagram_edit_on_github.png["在 GitHub 上编辑"]
+
+.. 单击铅笔图标并开始编辑内容。
++
+此内容以一种轻量化标记语言 AsciDoc 编写。
+
++
+link:asciidoc_syntax.html["AsciDoc 备忘单"^]
+
++
+image:diagram_pencil_icon.png["铅笔图标"]
+
+.. 要提交更改，请向下滚动页面，选择 * 为此提交创建新分支并启动提取请求 * ，然后单击 * 建议文件更改 * 。
++
+GitHub 会自动为此更改填写一个分支名称（例如 _username-pater-n_ ）。
+
++
+image:diagram_propose_file_change.png["建议文件更改"]
+
+.. 提供有关所做编辑的注释，然后单击 * 创建拉取请求 * 。
++
+image:diagram_create_pull_requst.png["创建提取请求"]
+
++
+在您提出更改建议后，我们将查看这些更改并将其合并到 GitHub 存储库中。
+
++
+您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 拉取请求 * 来查看拉取请求的状态：
+
++
+image:diagram_pull_request_tab.png["拉取请求选项卡"]
+
+
+
+. 请求更改页面：
++
+.. 在 " 贡献 " 下，单击 * 请求文档更改 * 。
++
+image:diagram_request_doc_changes.png["请求文档更改"]
+
++
+此时将显示一个文本框，用于提供请求详细信息。
+
+.. 在文本框中提供详细信息，然后单击 * 提交新问题描述 * 为您的请求创建问题描述。
++
+此文本框会预先填充页面的标题和 URL 。请勿删除此信息。
+
++
+image:diagram_submit_new_issue.png["提交新的问题描述"]
+
++
+打开问题描述可以通过 GitHub 注释实现协作。根据您在 GitHub 帐户设置中指定的首选项，您将收到电子邮件通知。
+
++
+您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 问题 * 来查看请求的状态：
+
++
+image:diagram_issues_tab.png["问题选项卡"]
+
+
+
+

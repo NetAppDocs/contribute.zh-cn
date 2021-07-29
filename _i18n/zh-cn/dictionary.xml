@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="927796bbaa454c7de262b6c5f63a9498" category="doc">在 GitHub 中提供 NetApp 技术内容</block>
+  <block id="5228344774d765214d271cc876038810" category="paragraph">NetApp 的多种产品和服务的文档均为开源文档。这样，您就可以直接对内容进行贡献，以进行改进，更正和提出建议。您只需要一个 GitHub 帐户和一个小计划即可。</block>
+  <block id="146f2221ee4dce71c48573b3a78b384f" category="paragraph">您可以直接编辑页面或请求我们进行更改。如果您需要有关我们的编写方式和语法的帮助，请使用以下资源：</block>
+  <block id="08dc1654f6cdcafeb4b7b793651b7723" category="inline-link-macro">查看文档源的语法</block>
+  <block id="b502a4b959edbac4fd7b0d572361eee4" category="list-text"><block ref="b502a4b959edbac4fd7b0d572361eee4" category="inline-link-macro-rx"></block></block>
+  <block id="5d087c1cff27e88c1a964731166286aa" category="inline-link-macro">查看 NetApp 文档的风格和声音</block>
+  <block id="e070fb2820f346a3dd367d79c2ff55e2" category="list-text"><block ref="e070fb2820f346a3dd367d79c2ff55e2" category="inline-link-macro-rx"></block></block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
+  <block id="2e91d8a2b46d1150d0a32df6d40575f5" category="inline-link">从 github.com 创建一个</block>
+  <block id="3abb7514ea5c7ede0747a0733732c2f3" category="list-text">如果您还没有 GitHub 帐户，<block ref="23432af0d50ca18ea33f0fbce4450214" category="inline-link-rx"></block>。</block>
+  <block id="b18871a00508acb170fcc72706ee5239" category="list-text">登录到您的 GitHub 帐户。</block>
+  <block id="1a5342f56c20c51fdd7b42a289f407b7" category="list-text">使用浏览器打开要提供信息的页面。</block>
+  <block id="665e38d4cc52bc49aa3819f878619c72" category="paragraph">您可以直接编辑此页面，也可以请求更改此页面。</block>
+  <block id="19767061c412fafbb13bd5d119ef8113" category="list-text">要编辑页面，请执行以下操作：</block>
+  <block id="189c6c34221fcb57f76b4fff137ce702" category="list-text">在 " 贡献 " 下，单击 * 在 GitHub 上编辑 * 。</block>
+  <block id="06c48f0ff675a1331b3e9e49bc1f6f1e" category="inline-image-macro">在 GitHub 上编辑</block>
+  <block id="1c6ad4efbd0e6a08a74c1b104683f5c5" category="paragraph"><block ref="1c6ad4efbd0e6a08a74c1b104683f5c5" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="11743fae7071ba41c063d79f9d47ca33" category="list-text">单击铅笔图标并开始编辑内容。</block>
+  <block id="be838e02af3d2bacb04fbc2880042163" category="paragraph">此内容以一种轻量化标记语言 AsciDoc 编写。</block>
+  <block id="52f1e9b7668fc16cad5166f6495b2f91" category="inline-link-macro">AsciDoc 备忘单</block>
+  <block id="0ae2a118f2dda46de41c746e9292866c" category="paragraph"><block ref="0ae2a118f2dda46de41c746e9292866c" category="inline-link-macro-rx"></block></block>
+  <block id="caa1e25984e775c1ab44cfd42620d720" category="inline-image-macro">铅笔图标</block>
+  <block id="88f62b3e84a51635cf5cbf1e53120c06" category="paragraph"><block ref="88f62b3e84a51635cf5cbf1e53120c06" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d470dc77895be6d3289f18d71d21256c" category="list-text">要提交更改，请向下滚动页面，选择 * 为此提交创建新分支并启动提取请求 * ，然后单击 * 建议文件更改 * 。</block>
+  <block id="0c78a81fa65e4357f7ee46b933c7e6dd" category="paragraph">GitHub 会自动为此更改填写一个分支名称（例如 _username-pater-n_ ）。</block>
+  <block id="931231a18711fc1a896b57286e811c85" category="inline-image-macro">建议文件更改</block>
+  <block id="1c98441615b75b7b4dd2424f328a68e1" category="paragraph"><block ref="1c98441615b75b7b4dd2424f328a68e1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3ae1151e4be411b5f717a9545786a443" category="list-text">提供有关所做编辑的注释，然后单击 * 创建拉取请求 * 。</block>
+  <block id="de275cc7c4f3e817ed9ecc4e830c24d7" category="inline-image-macro">创建提取请求</block>
+  <block id="cd513965f13ef948f0c3b13552598858" category="paragraph"><block ref="cd513965f13ef948f0c3b13552598858" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="882f4c0e96d0ee1e0f76ee012723caf5" category="paragraph">在您提出更改建议后，我们将查看这些更改并将其合并到 GitHub 存储库中。</block>
+  <block id="1b298dec052f6b43025abe6b9aa176a8" category="paragraph">您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 拉取请求 * 来查看拉取请求的状态：</block>
+  <block id="eb343639c45a95881e36d4973088d4ee" category="inline-image-macro">拉取请求选项卡</block>
+  <block id="f6c6236611b62805f70cf5b438a69171" category="paragraph"><block ref="f6c6236611b62805f70cf5b438a69171" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="50127da97fc4ced3247d533cf9897a10" category="list-text">请求更改页面：</block>
+  <block id="5148133edc2261bd83f90bcca7e7c2c8" category="list-text">在 " 贡献 " 下，单击 * 请求文档更改 * 。</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="inline-image-macro">请求文档更改</block>
+  <block id="5f5e28e33ce68bf0f36cc44e1432c579" category="paragraph"><block ref="5f5e28e33ce68bf0f36cc44e1432c579" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bf7f5045cec10ba95d57c65df9a970af" category="paragraph">此时将显示一个文本框，用于提供请求详细信息。</block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="list-text">在文本框中提供详细信息，然后单击 * 提交新问题描述 * 为您的请求创建问题描述。</block>
+  <block id="d0b7efc470de41ef0813d7b834eb1e08" category="paragraph">此文本框会预先填充页面的标题和 URL 。请勿删除此信息。</block>
+  <block id="f6e56229ccb769a21a8ee36c8ce1097b" category="inline-image-macro">提交新的问题描述</block>
+  <block id="e9b5cfc4b4bf53ce9ec6d120a2c302e8" category="paragraph"><block ref="e9b5cfc4b4bf53ce9ec6d120a2c302e8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4be02c3b6a1dbb553947465f6eafa24e" category="paragraph">打开问题描述可以通过 GitHub 注释实现协作。根据您在 GitHub 帐户设置中指定的首选项，您将收到电子邮件通知。</block>
+  <block id="0cc0be5a3257632810d8db494aff25e6" category="paragraph">您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 问题 * 来查看请求的状态：</block>
+  <block id="3dd521ea84dae3c68a7c4831eb73ee9c" category="inline-image-macro">问题选项卡</block>
+  <block id="9f76e49f1ac670fcfcfd481e689d9d99" category="paragraph"><block ref="9f76e49f1ac670fcfcfd481e689d9d99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="doc">AsciiDoc 参考</block>
+  <block id="cd0bd58632de2fcc1ba5422e3cca6c4e" category="paragraph">AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。要开始在 AsciDoc 中写入，请参见此页面。</block>
+  <block id="f9ad3e2b82cfd8da0b3369fed741706c" category="inline-link">《 AssiDoctor 用户手册》</block>
+  <block id="d134affc37050d09a156237dc2cf220e" category="paragraph">请参见<block ref="686ed60828f79dcc43592b9497c7356e" category="inline-link-rx"></block> 以获得更多帮助。</block>
+  <block id="5f936d66726370eea0749c9a4d3cca5c" category="section-title">基础知识</block>
+  <block id="691b720b927b48c88cfa1c15e15b3f6d" category="paragraph">要进行简单的文档更新，您需要了解一些事项。</block>
+  <block id="545b1150d9c178bf41eee6c799b715d7" category="section-title">标题</block>
+  <block id="6397246ba094d9120837854dca632c20" category="paragraph">您只能有一个页面标题，但可以有多个分区标题。例如，您可能有三个 1 级部分，其中包括 2 级和 3 级部分：</block>
+  <block id="da77091f0857719acccaeac900126758" category="section-title">粗体文本</block>
+  <block id="5fab15b68159933fa47d87a0f98777e8" category="section-title">斜体文本</block>
+  <block id="38ff5182c4690f6803461076eaba4d46" category="section-title">项目符号列表</block>
+  <block id="74238e9843157f4353f61c68644f5f45" category="admonition">+ 是一个列表继续。它会使文本与列表项保持一致。省略 + 将影响该行的格式设置。</block>
+  <block id="e293b4a670ba7438a07a64bbec08edab" category="section-title">已标记列表</block>
+  <block id="e81c4e4f2b7b93b481e13a8553c2ae1b" category="paragraph">或</block>
+  <block id="7bc865fd6b745f6a5e4cae06b8288852" category="paragraph">在项目 1 上方添加 "Horizontal" 时，标签和问题描述将显示在同一行上。如果您的说明非常简短，则效果会很好。</block>
+  <block id="608418a48d98855ca660bbf42fd5fefd" category="paragraph">* 不带 [ 水平 ]* 的示例</block>
+  <block id="f59e6f3afd2a3b4771029cd36e3c42f1" category="list-text">项目 1.</block>
+  <block id="d876d5ba42ab4ae4d2a46216857c55d5" category="list-text">问题描述 1.</block>
+  <block id="9eda28f01813fcf69eddd682a9d127e2" category="list-text">项目 2.</block>
+  <block id="1d34c1478f7d4a6ca7f9982c41197b94" category="list-text">问题描述 2.</block>
+  <block id="8b7603cf7d12b020845fbba85c697e83" category="paragraph">* 使用 [ 水平 ]* 的示例</block>
+  <block id="fff0d600f8a0b5e19e88bfb821dd1157" category="section-title">映像</block>
+  <block id="c92fdc0c10087e680d44130384efebb3" category="paragraph">_alt text_ 表示备用文本。它介绍了页面上显示的映像。主要用于使用屏幕读取器的视觉受损用户。</block>
+  <block id="4b5cd4ff8180e97729791c046205f69b" category="admonition">最好用引号将可选文字括起来，因为像逗号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。</block>
+  <block id="554cfab3938e21d9270bd6b75931f96f" category="section-title">视频</block>
+  <block id="25db67dca1c1200798ee23b9d45d9847" category="paragraph">在 YouTube 上托管：</block>
+  <block id="a9c9689824082228309a2daba2b8a5b1" category="paragraph">在 GitHub 本地托管：</block>
+  <block id="bd908db5ccb07777ced8023dffc802f4" category="section-title">链接</block>
+  <block id="3ad466c909e04f053603d8a568e8ad3b" category="paragraph">应使用的语法取决于要链接到的内容：</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
+  <block id="fe7e7306a02d2dd68d6ca1911d7444dc" category="list-text"><block ref="2269226a3e751e2b50fe46abe0fb63a9" category="inline-xref-macro-rx"></block></block>
+  <block id="849cdb51a6f6e76fc551e56b47b6658d" category="list-text"><block ref="881f88fd582dc65f7f078e4f61325484" category="inline-xref-macro-rx"></block></block>
+  <block id="7acade09c9aee9e0799591e7500f1cee" category="list-text"><block ref="4eac1d039b365921034f866323c3347d" category="inline-xref-macro-rx"></block></block>
+  <block id="82d671583e79848ccd918e5efaa082b0" category="section-title">链接到外部站点</block>
+  <block id="6f6bd153e187f3634dfa545e932b79c7" category="paragraph">此时， ^ 将在新的浏览器选项卡中打开此链接。</block>
+  <block id="24772fc266e34650809c6f67fe9f09a3" category="section-title">链接到同一页面上的某个部分</block>
+  <block id="506c2c0c7f5b70af3df68c45c46f45a7" category="paragraph">例如：</block>
+  <block id="1be5adac6916017fefb5b19e2378ee9d" category="paragraph">链接文本可以不是章节标题：</block>
+  <block id="e399c2da83aeb4dea3e36b493faaa68c" category="section-title">链接到文档中的其他页面</block>
+  <block id="dc2de404481fda2adbf2088a2205a83f" category="paragraph">此文件需要位于同一 GitHub 存储库中：</block>
+  <block id="694abf39fbb3b6ee3ef7bb3ea0a0f13d" category="paragraph">要直接链接到文件中的某个部分，请添加哈希（ # ）和该部分的标题：</block>
+  <block id="f2530b8f95ca7fbddf1623c55acf56f4" category="section-title">注释，提示和注意事项</block>
+  <block id="23249d81b5a01c472dda43625163a635" category="paragraph">您可能希望通过使用注释，提示或注意事项陈述来吸引对某些陈述的注意。格式如下：</block>
+  <block id="adb391ab276ee4f1def72e59b068f395" category="paragraph">请谨慎使用其中每一项。您不希望创建充满注释和提示的页面。如果您这样做，它们的意义就会降低。</block>
+  <block id="69ea9f852e5adfdc9f0811875c08e4f1" category="paragraph">以下是将 AsciDoc 内容转换为 HTML 时的每种情况：</block>
+  <block id="a47a0e2f074764d979484b55009c7443" category="admonition">这是一个注释。其中包括读者可能需要了解的额外信息。</block>
+  <block id="820bc85f46fcf02dfea26c916f0bac23" category="admonition">提示可提供有用的信息，帮助用户执行某项操作或了解某项操作。</block>
+  <block id="633d4c975a55e40db84fe408d8ceeec0" category="admonition">警告会建议读者小心操作。在极少数情况下使用此功能。</block>
+  <block id="dbf250e6c58425c9c909b46fe2fa28cd" category="section-title">高级内容</block>
+  <block id="174708d697faec90dc41b27cb5093b4c" category="paragraph">如果您正在创作新内容，则需要查看此部分以了解一些 nitty-gritty 详细信息。</block>
+  <block id="78e890f4a68cca1645987fcf5e9e4f47" category="section-title">文档标题</block>
+  <block id="28bb83e3ed54734a3699ae2f398f2def" category="paragraph">每个 AsciDoc 文件都包含两种类型的标题。第一种是 GitHub ，第二种是 AsciDoctor ，它是一种将 AsciDoc 内容转换为 HTML 的发布工具。</block>
+  <block id="3506bdd55f7fbb23b7705a294aab9289" category="paragraph">GitHub 标题是 .adoc 文件中的第一组内容。它需要包括以下内容：</block>
+  <block id="9f9a662a333984816dcec24ab875aa63" category="paragraph">关键字和摘要直接影响搜索结果。事实上，摘要本身会显示在搜索结果中。您应确保它便于用户使用。最佳做法是，让摘要镜像您的主段落。</block>
+  <block id="21d1b79145806130cdd622513eb99c5a" category="admonition">最好将摘要用引号括起来，因为像冒号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。</block>
+  <block id="fe186e09ef66e61a38d61305215f5c27" category="paragraph">下一个标题直接位于文档标题下（请参见 <block ref="3b7dddb72263babf39d89061603d2ad0" category="inline-xref-macro-rx"></block>）。此标题应包括以下内容：</block>
+  <block id="3dba59238c78dee98b3204695fdeb6d6" category="paragraph">您无需在此标题中触摸任何参数。只需将其粘贴，即可忘记。</block>
+  <block id="b737e40bf09b75a686eb92db94c373eb" category="section-title">导联段落</block>
+  <block id="87aa3e52da296a683cc0a7d11ff7e302" category="paragraph">文档标题下的第一段应在其正上方包含以下语法：</block>
+  <block id="a796fc19edcff5773d024e7a38addc36" category="paragraph">【 .Lead 】将 CSS 格式应用于前导段落，该段落的格式与后续文本不同。</block>
+  <block id="651ae5789ab776f2fcaf80b5e62801dc" category="section-title">表</block>
+  <block id="d5a02e47558b86cef6b333023baae5ad" category="paragraph">下面是基本表的语法：</block>
+  <block id="3bbdf8a3f591bb39d5f3d5a3713270d2" category="paragraph">可以通过 _many _ 方法设置表的格式。请参见<block ref="84683c7812c0b2660c7fb083e9b4f346" category="inline-link-rx"></block> 以获得更多帮助。</block>
+  <block id="19e8b6ea02a34eafe28de5134516e8bf" category="admonition">如果单元格包含带格式的内容，例如项目符号列表，最好在列标题中添加 "A" 以启用格式化。例如： [cols="2 ， 2 ， 4a" options="header ]]</block>
+  <block id="a40d41498745f1cf79383fc926a83b02" category="inline-link">有关更多表示例，请参见《 AssiDoc 语法快速参考》</block>
+  <block id="cb9c296e6a806727822d33466a7b6efc" category="paragraph"><block ref="a9a2e43f2f01b0b5d9ea198f29528da9" category="inline-link-rx"></block>。</block>
+  <block id="d05a730406b69feb7293245debf1525d" category="section-title">任务标题</block>
+  <block id="ae73948105e2f2a9f69fe9d6be55e0e2" category="paragraph">如果您要说明如何执行任务，则可以在执行步骤之前提供简介信息。完成这些步骤后，您可能需要说明要执行的操作。否则，最好使用标题来组织这些信息，这样可以进行扫描。</block>
+  <block id="4f6105267c2ffe51783891da7b75cca5" category="paragraph">根据需要使用以下标题：</block>
+  <block id="7fda17947e5733d9f3f31dc96eb473fe" category="paragraph">用户完成任务所需的信息。 _</block>
+  <block id="c23e1bb85d2d75b13502c141c3fdc39b" category="paragraph">_ 用户可能需要了解的有关此任务的一些额外上下文信息。 _</block>
+  <block id="9b8b70974adf28d28c66353888e9d22c" category="paragraph">_ 完成任务的各个步骤。 _</block>
+  <block id="324fcd155c48cec7db4a9cbbd2dd7860" category="paragraph">_ 用户接下来应执行的操作。 _</block>
+  <block id="1b66bf52068f546c469f86a5d5d3daa4" category="paragraph">其中每个都应包括。就在文本前面，如下所示：</block>
+  <block id="421438b2a0382b5b6ad1bcbd6fac720e" category="paragraph">此语法将以较大的字体应用粗体文本。</block>
+  <block id="273f462994a23d52c978def88f9b42f9" category="section-title">命令语法</block>
+  <block id="073195d0b0078920c632b6766a7397af" category="paragraph">提供命令输入时，将命令括在 ` 内以应用 monospace 字体：</block>
+  <block id="112b124c87329641529c4c12f8af92a2" category="paragraph">具体如下所示：</block>
+  <block id="833e74f4f13a24fa8b6df8164c7f722f" category="paragraph">`volume show -is-encrypted true`</block>
+  <block id="6e7cea23df93f65812ee14e6ddd2905b" category="paragraph">有关命令输出或命令示例，请使用以下语法：</block>
+  <block id="f3895b86076dec342f7ecfe01b965cfb" category="paragraph">使用四个短划线，您可以输入同时显示的单独文本行。结果如下：</block>
+  <block id="392f60882bad06b608a6289adbd49a5e" category="section-title">可变文本</block>
+  <block id="dafd26642186d4441bfd684f15c79f8d" category="paragraph">在命令和命令输出中，将变量文本括在下划线中以斜体表示。</block>
+  <block id="2848b38f7e19b37a9d457bf3d3535e44" category="admonition">目前，代码语法突出显示不支持下划线。</block>
+  <block id="0d1abc652ea177e57c2665e7b5606b0e" category="section-title">代码语法突出显示</block>
+  <block id="433a43a8d3161c06c8ede987743ded2e" category="paragraph">代码语法突出显示提供了一个以开发人员为中心的解决方案，用于记录最受欢迎的语言。</block>
+  <block id="5a318443a9fe053cf9cd14f4a56d3212" category="paragraph">* 输出示例 1*</block>
+  <block id="bd8c2129e257858f30bd77926ebf273b" category="paragraph">* 输出示例 2*</block>
+  <block id="e3e60ba8236067cdded098a4ec25fed2" category="paragraph">* 支持的语言 *</block>
+  <block id="d574d4bb40c84861791a694a999cce69" category="list-text">Bash</block>
+  <block id="f6e57c9de709e45feb0d955351f53548" category="list-text">卷曲</block>
+  <block id="5e056c500a1c4b6a7110b50d807bade5" category="list-text">HTTPS</block>
+  <block id="466deec76ecdf5fca6d38571f6324d54" category="list-text">JSON</block>
+  <block id="2f2d399f0ea8844859fe5514b304733b" category="list-text">PowerShell</block>
+  <block id="768747907b90c39ab6f16fcb3320897a" category="list-text">Puppet</block>
+  <block id="23eeeb4347bdd26bfc6b7ee9a3b755dd" category="list-text">Python</block>
+  <block id="6eedc03a68a69933c763e674f2d7c42f" category="list-text">YAML</block>
+  <block id="b69a681d62838209b0d357692ca2c9f5" category="paragraph">* 实施 *</block>
+  <block id="409106d69e12195839fc1514f434d92d" category="paragraph">复制并粘贴以下语法，然后添加受支持的语言和代码：</block>
+  <block id="424e522025c17a44a3de0e553dc5338a" category="section-title">内容重复使用</block>
+  <block id="4231f03b29dfbd7c494bb9b54615acf2" category="paragraph">如果您有一个内容块在不同页面上重复出现，则可以轻松写入一次，并在这些页面上重复使用。可以从同一个存储库中以及在各个存储库之间重复使用。工作原理如下。</block>
+  <block id="8a1d665fa2c1c90395d9c5d9c016c500" category="list-text">在存储库中创建一个名为 _include 的文件夹</block>
+  <block id="e3f8aa4eda2e628247843143e4444ee2" category="inline-link">例如，请查看 Cloud Tiering 存储库</block>
+  <block id="2836203db72cb8b2dc0747c34ad3623a" category="paragraph"><block ref="2a9209a35a25c7ac66e2cadee79eeb5b" category="inline-link-rx"></block>。</block>
+  <block id="4edc4125f1bd80699bd212f2ec25b2d5" category="list-text">在该文件夹中添加一个 .adoc 文件，其中包含要重复使用的内容。</block>
+  <block id="2c019d97fda317ba4409ef14a62308b7" category="paragraph">它可以是一个句子，一个列表，一个表，一个或多个部分，依此类推。不要在文件中包含任何其他内容—没有标题或任何内容。</block>
+  <block id="8220c87ca19e659ee804d3dc2149e367" category="list-text">现在，转到要重复使用该内容的文件。</block>
+  <block id="012f114d27bdc1b39d0981792af4eeee" category="list-text">如果要重复使用 _same _ GitHub 存储库中的内容，请在一行中单独使用以下语法：</block>
+  <block id="90911dc8efd88667cf1dbfecaf94fafe" category="list-text">如果要重复使用 _Different_ 存储库中的内容，请单独在一行上使用以下语法：</block>
+  <block id="95765c2dfda7d084715936053f502991" category="paragraph">就是这样！</block>
+  <block id="514e377a927694fc176e85fdf041aca4" category="inline-link">查看《 AssiDoctor 用户手册》</block>
+  <block id="26c37afe99559e49b8e1997dc66b06a4" category="paragraph">如果您希望了解有关 include 指令的更多信息，<block ref="3614cbd0aad04b2c40fced01c250f6c0" category="inline-link-rx"></block>。</block>
+  <block id="5a475e4efa7b8ddf2d6321000dc8cbba" category="section-title">带有链接的映像</block>
+  <block id="12cefe5430e1589c2511b55bc8ab45d6" category="paragraph">您可以向映像添加链接，使其像 " 按钮 " 。</block>
+  <block id="5c58eb07dae698bdbd546d0e3ee7a618" category="paragraph">* 输出示例 *</block>
+  <block id="74cd97b5776c170bc107c0ef3fa1f43f" category="paragraph">在以下屏幕截图中， "View in Documentation Center" 是一个包含链接的映像。</block>
+  <block id="a92a4dce2a7a1ef62836f3c525107ff5" category="image-alt">显示 " 在文档中心中查看 " 的按钮的图像</block>
+  <block id="5622b64e835ffe9267d8000cea15b529" category="paragraph">* 语法 *</block>
+  <block id="dc2f84b1e0863d2edcde8848baa4ae90" category="paragraph">添加映像时，请使用以下语法：</block>
+  <block id="5b09c2bf3bfcd66efa7232ef81a3b929" category="paragraph">"window=_blank" 将在新的浏览器选项卡（或窗口）中打开此链接。</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">法律声明提供对版权声明、商标、专利等的访问。</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商标</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 徽标和 NetApp 商标页面上列出的标记是 NetApp 、 Inc. 的商标。其他公司和产品名称可能是其各自所有者的商标。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">专利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">有关 NetApp 拥有的专利的最新列表，请访问：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隐私政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">开放源代码</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="doc">NetApp 文档风格指南</block>
+  <block id="e2d0dae9d76032e451e39d8e99304566" category="paragraph">我们的风格是对话和同理心，但我们始终保持专业精神，并达到这一要求。为 NetApp 文档编写内容时，请遵循以下准则。</block>
+  <block id="99cadf0b9e522abf385884bbba7ba292" category="section-title">以对话方式编写</block>
+  <block id="a50fac6c5f3dd2cb4730087ea54252bf" category="paragraph">向专业同事解释时，请像讲话一样写。以对话的方式编写有助于您与受众建立联系。</block>
+  <block id="7d0edd1178aac4fd80f275d473a2bbba" category="admonition">高声阅读您的文章。正如美国一位小说家兼编剧 Elmore Leonard 所说： " 如果听起来像写的话，我会重新写。 "</block>
+  <block id="14162950f27b607637ed0c3681ea338c" category="cell">过于正式</block>
+  <block id="706ee9fc99a081223cc401929741a52a" category="cell">过于随意</block>
+  <block id="e3d632fe289ec28c552b21075d04a8fc" category="cell">我们的风格</block>
+  <block id="e79230b3b0562e674e6294e0554d48d4" category="cell">如果您在使用 Cloud Tiering 时遇到问题，可以在集群信息板上查看运行状况以确定发生错误的原因。运行状况反映了 ONTAP 系统和服务连接器的状态。</block>
+  <block id="38eaae780dedf233f8b16537af9bf66f" category="cell">如果发生故障，则毫无乐趣。尽管如此，您无需担心，只需查看集群信息板即可查看发生的情况以及受影响的内容。</block>
+  <block id="4203483b917dd9616ff240c282ea3de2" category="cell">发生故障时， Cloud Tiering 会在集群信息板上显示 " 失败 " 运行状况。查看状态以获取有关故障的信息。</block>
+  <block id="09083b2e235c493fdbe1bd76c4fc1759" category="cell">您可以通过多种方式为云分层付费。您可以通过按需购买订阅为云分层付费，也可以通过 ONTAP 分层许可证付费，或者同时通过这两者付费。您无法在 Cloud Manager 中获得许可，必须直接转到 Cloud Tiering 服务进行设置。</block>
+  <block id="2019b14ea1228e2750567a5a10b6082b" category="cell">您可以通过三种方式为云分层付费。当然是按需购买的订阅，但也包括 ONTAP 分层许可证，甚至两者的组合。但是，您无法从 Cloud Manager 获得许可，因此直接转到 Cloud Tiering 服务进行设置。</block>
+  <block id="2293c6f5616ca3c3739756e3ba4335f3" category="cell">通过按需购买订阅， ONTAP 分层许可证或两者的组合为云分层付费。Cloud Manager 中不提供许可，但您可以直接转到 Cloud Tiering 服务进行设置。</block>
+  <block id="d610c8ffc37561f4634a190387a5f3b6" category="cell">在配置存储之前，您必须先从 Cloud Manager 发现 ONTAP 集群。发现完成后，您必须打开工作环境以配置存储。</block>
+  <block id="17b767c95630dcda77217ed5b3e18485" category="cell">您只需先从 Cloud Manager 发现 ONTAP 集群，然后打开工作环境开始配置存储即可。轻松！</block>
+  <block id="a8e0043a624da44dc1444007f03701d9" category="cell">从 Cloud Manager 发现 ONTAP 集群后，打开工作环境以配置存储。</block>
+  <block id="e7d907ab95696d826dd2c779e9e54c9f" category="cell">根据您要分析的内容，以两种方式之一分析存储系统的健康属性：选择信息板上的健康属性小工具或选择查看全部以查看整个健康属性列表。</block>
+  <block id="4dbdef08a39727e79d1de0ea347e493d" category="cell">您可以通过两种方式分析系统的健康属性：只需选择信息板上的健康属性小工具即可。或者，如果您希望在一个视图中查看完整的健康属性列表，请选择查看全部。</block>
+  <block id="75ab0e119891809d63bcc8c56b8c2793" category="cell">选择信息板上的健康属性小工具或选择查看全部以查看所有操作和风险的列表。</block>
+  <block id="7a8e71d910db3b72c9392f6de16c626b" category="cell">设置向导启动后，按照向导中的说明设置节点并将其加入集群。以下步骤将指导您完成向导中的步骤。</block>
+  <block id="1a06075f56c7d5e9e311fe51b475db66" category="cell">此时将显示设置向导（几乎像魔法一样），用于指导您完成设置节点并将其加入集群的简单过程。</block>
+  <block id="8792ee5d1e83c1d33d5410776949cde4" category="cell">按照设置向导中的说明设置节点并将其加入集群。</block>
+  <block id="426b4a995ccf198bbc6bebc54c0983a8" category="cell">您可以从多种内容格式类型中进行选择，以安装和设置新系统。每种格式类型均提供完整的说明。选择与您喜欢的学习方式最匹配的格式类型。</block>
+  <block id="512c554de100f0a0303aff43a4938548" category="cell">您希望如何设置和安装系统？我们提供多种内容格式类型的说明，但只有您知道自己喜欢如何学习。</block>
+  <block id="5c95199f716f82b32872292114a229c6" category="cell">选择一种内容格式类型，以指导您完成系统安装和设置。</block>
+  <block id="a6cf0a00702e536a363628733d5213a4" category="section-title">只需编写即可</block>
+  <block id="b298933aad8731ee717027872a8dabf8" category="paragraph">避免使用大而令人困惑的词语。保持简单。您正在向专业同事解释一些内容，而不是展示您的词汇。</block>
+  <block id="724de70f821b15b77c199ba6c3c78a52" category="paragraph">仅此一项： " 将用户与您的 NetApp Cloud Central 帐户解除关联。 "</block>
+  <block id="4ce32d6ad30ddad687a9afb502393612" category="paragraph">执行此操作： " 从 NetApp Cloud Central 帐户中删除此用户。 "</block>
+  <block id="33d3bee5bdc5b545c2ff65c8aae964bc" category="section-title">最少写入</block>
+  <block id="38001d100fec2d1dcdfc105a2ae60826" category="paragraph">短而简单的句子使内容更易于阅读或扫描。可以一次使用较长的句子，但使用较短的句子。就像这样。</block>
+  <block id="277b7e6928cc03b89a034957458a45da" category="paragraph">" 要在 AWS 中的 Cloud Volumes ONTAP 系统与其他网络中的 ONTAP 系统之间复制数据，您必须在 Amazon VPC 与其他网络（例如 Azure vNet 或您的公司网络）之间建立 VPN 连接。 "</block>
+  <block id="82cbaceb5cc1b3b8f540b9fdf3f6ce57" category="paragraph">执行此操作： " 网络之间的数据复制需要通过 VPN 进行连接。例如，在您的 Amazon VPC 和公司网络之间，或者在 AWS 和 Azure 之间。 "</block>
+  <block id="d96895205deeecea5fd74faa492c18cc" category="paragraph">另请参见 <block ref="8cb72eb8cdc2204aae415c32d9befda5" category="inline-xref-macro-rx"></block>。</block>
+  <block id="8e7628e7047272997974cb838b8802bb" category="section-title">正在写入</block>
+  <block id="18e434c4fc4101ee7ce1f57f64538979" category="paragraph">避免被动语音是技术写入的一项标准规则，但在您希望进行合理的对话时，使用主动语音尤其重要。</block>
+  <block id="e7f1238ab8b35c783b4369d921ea7697" category="paragraph">* 而不是此项 * ： " 在部署第一个集群之前，必须提供所需的权限。 "</block>
+  <block id="de3a57bf9669fa7f4f6095f285c91a30" category="paragraph">* 执行此操作 * ： " 在部署第一个集群之前，请提供所需的权限。 "</block>
+  <block id="24cceca19bc255113b993d523dbb1606" category="paragraph">另请参见 <block ref="7bec9538d082ed3ef031877eda02f047" category="inline-xref-macro-rx"></block>。</block>
+  <block id="8218b70694b9a19d40ad23d53669958f" category="section-title">使用包容性语言</block>
+  <block id="6b779f3ec24824723334061dfbc337ce" category="paragraph">NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使用的词语可以在与客户建立积极的关系或孤立客户之间发挥作用。尤其是对于文字，影响比意图更重要。</block>
+  <block id="d658c6f2741d4739bd62749a7c146725" category="paragraph">在为 NetApp 产品创建内容时，请避免使用可被解释为有损人格，具有种族，性别歧视或其他压制性的语言。相反，请使用可供需要使用文档的每个人访问并欢迎使用的语言。例如，请使用 " 主 / 从 " 代替 " 主 / 从 " 。</block>
+  <block id="c0453e84074ee6c764cfff4036e7a5c6" category="paragraph">我们知道，为了从文档和产品中删除所有非包容性语言，我们需要做一些工作。我们正在积极制定我们的标准和最佳实践，并希望在未来更新此部分以提供更多指导。</block>
+  <block id="4b836daed67a5f68f01caa4387d2997b" category="section-title">达到关键点</block>
+  <block id="13d17bb08bd45206448047778da1b7f1" category="paragraph">从对用户重要的内容入手。了解用户正在尝试执行的操作，并专注于帮助他们实现此目标。</block>
+  <block id="32c2a7211a973f6ee77acc3d1be224e6" category="paragraph">仅此一步： " Cloud Sync 可以使用传输中数据加密将数据从一个 NFS 服务器同步到另一个 NFS 服务器。如果您制定了严格的网络数据传输安全策略，则对数据进行加密会很有帮助。 "</block>
+  <block id="1aa40d7589b9dc222cf6a6724ee49913" category="paragraph">执行此操作： " 如果您的企业拥有严格的安全策略，请使用传输中数据加密在不同网络中的 NFS 服务器之间同步数据。 "</block>
+  <block id="a361775444b7090a1bfe12fd4cbcfa6d" category="section-title">使用大量可视化信息</block>
+  <block id="c99c9a6aa69b2c5aaca314b276ebac5b" category="paragraph">大多数人都是视觉学习者。使用视频，图表和屏幕截图改进学习。视觉效果还有助于拆分文本块。</block>
+  <block id="ff7c0fcd6a31e735a61c001f75426961" category="list-title">示例</block>
+  <block id="2c1f35f6a2d89783cc4e3cb5dddbf13e" category="inline-link">示例 1</block>
+  <block id="8043907a5143d799b67c701bade9898a" category="list-text"><block ref="8043907a5143d799b67c701bade9898a" category="inline-link-rx"></block></block>
+  <block id="f878cf0dd42dc4c0fea1e3d46b29bd65" category="inline-link">示例 2</block>
+  <block id="fed62f795a2ddbdf2038c39203acda7d" category="list-text"><block ref="fed62f795a2ddbdf2038c39203acda7d" category="inline-link-rx"></block></block>
+  <block id="de3f6bdf0d88db0d3f3b57dee5cb654a" category="paragraph">另请参见 <block ref="f9b158fd04b8fe385dbf8b00d9130e6c" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e03e1e7d88cf65f2b375e60b53e89c18" category="section-title">创建可扫描的内容</block>
+  <block id="ed05a72d1291aded6dd57c79ca2e07b6" category="paragraph">使用标题，列表和表帮助用户扫描所需内容。</block>
+  <block id="7aa31077b5ec51459df6b7f159c11f4a" category="list-text"><block ref="7aa31077b5ec51459df6b7f159c11f4a" category="inline-link-rx"></block></block>
+  <block id="47945a33d278a568329ca94149c9de10" category="list-text"><block ref="47945a33d278a568329ca94149c9de10" category="inline-link-rx"></block></block>
+  <block id="48b0365b286aecd7e2fa7fad18b782c3" category="section-title">关注用户目标或该目标的特定方面</block>
+  <block id="4e343630a75c3e40f896bf1b3949e932" category="paragraph">如果您要介绍如何完成一系列任务，请将其全部放在一系列章节的一页上，包括概念和基于参考的信息。不要将页面拆分为多个迷你页面，因为这需要单击太多。同时，不要创建冗长且令人望而生畏的页面。根据您的最佳判断来确定页面过长的时间。</block>
+  <block id="bbd886ca20f28831914094c490a3750a" category="list-text"><block ref="bbd886ca20f28831914094c490a3750a" category="inline-link-rx"></block></block>
+  <block id="80919881084bfcbd235a91900f343911" category="section-title">围绕用户目标组织内容</block>
+  <block id="efec69bedd6bf6180648cc5205533500" category="paragraph">帮助用户在需要时找到所需信息。通过按如下方式对内容进行组织，尽可能快速地将其从文档中输入和输出：</block>
+  <block id="c7c09212616a4a2622a565139e7747b4" category="list-text">左侧导航栏中的第一个条目（高级）</block>
+  <block id="5897a788a4b61495b4004511efbbbdca" category="list-text">围绕用户尝试实现的目标组织内容。例如，开始使用或保护数据。</block>
+  <block id="0862b4c88f63f656355d7b3f3ce05c73" category="list-text">导航中的第二个条目（中层）</block>
+  <block id="a5417562df9594ebe395cb67838f9ded" category="list-text">围绕构成目标的广泛任务组织内容。例如，设置灾难恢复或设置数据保护。</block>
+  <block id="7cc3e492c1345524ee2effcd59abda63" category="list-text">单个页面（详细级别）</block>
+  <block id="d29a200a927c5ca27c22c1bf95b654d7" category="list-text">围绕构成广泛任务的各个任务组织内容，每一个任务都侧重于一项学习或执行这项广泛任务的各个方面。例如，设置灾难恢复所需的任务。</block>
+  <block id="ec826192fccf8be31a46bdad89b15a35" category="section-title">为全球受众撰写</block>
+  <block id="24b0f763196d87cb8d056e2b1e6e0cd6" category="paragraph">我们为全球客户和合作伙伴撰写报告，我们的大部分内容都使用神经机器翻译工具或人工翻译进行翻译。请遵循以下准则，以便更清晰地编写和更轻松地进行翻译：</block>
+  <block id="f0f9c60e1d1c38e5a9282af65e27df3e" category="list-text">写简短的句子。</block>
+  <block id="ddcc68ade0c576c92ac92ba06b373fce" category="list-text">使用标准语法和标点符号。</block>
+  <block id="909018b5da2bdfa309a623714b4abce2" category="list-text">一个词表示一个含义，一个词表示一个含义。</block>
+  <block id="08bf7d31b011ef1f4b33124f4f51539e" category="list-text">使用常见的收缩。</block>
+  <block id="f51d2e58105800b1fb1707755869f2e0" category="list-text">使用图形来澄清或替换文本。</block>
+  <block id="7cb5636f8c309d98d496b57409e7f06b" category="list-text">避免在图形中嵌入文本。</block>
+  <block id="c9524683eb76d92421f71bc3876450bf" category="list-text">避免在一个字符串中包含三个或更多名词。</block>
+  <block id="d0ae92edfa39d062eb594422bc868ed0" category="list-text">避免出现不明确的前体。</block>
+  <block id="e7c58fb2c1e9e7aeaf7a80bc212c873e" category="list-text">避免使用术语，语言和比喻。</block>
+  <block id="57767c4e6018050031f1ad01a5fb80c4" category="list-text">避免使用非技术示例。</block>
+  <block id="dd13126a02977b1e5fa5494f561a633f" category="list-text">避免使用硬返回和空格。</block>
+  <block id="cf69f9e6df2c429e1272656be751b491" category="list-text">请勿使用幽默或具有讽刺意味的方式。</block>
+  <block id="2969189a292b348bb185765b8fd945e2" category="list-text">请勿使用具有歧视意义的内容。</block>
+  <block id="21a8b957c78ffc7ccd09aaad0b47c584" category="list-text">除非您为特定角色编写数据，否则请勿使用带有性别偏见的语言。</block>
+  <block id="16d11ee29f6f290bcb8babae3728286f" category="section-title">A 到 Z 准则</block>
+  <block id="9fdb82acade07b9103cacdcaa0d9ab74" category="section-title">主动语音（与 " 被动语音 " ）</block>
+  <block id="b9a359c8e1d57c92c8c83c4735d269c7" category="paragraph">在主动语中，句子的主题是操作的执行者：</block>
+  <block id="8db698ad8aeb9763624e91a10127e5fa" category="list-text">如果系统关闭不正确，则界面会显示一条警告消息。</block>
+  <block id="2eb27342533224892a3e4726bf3cd1da" category="list-text">NetApp 已收到合同。</block>
+  <block id="6b26c1f8278342b21ad858e1629f4a14" category="paragraph">主动式语音可让写入内容清晰明了。除非您有特定的理由使用被动语音，否则请将主动语音和地址用户直接用作 " 您 " 。</block>
+  <block id="62d0f31f6dc46df87f32e1ce19fec535" category="paragraph">在被动语中，操作者不清楚：</block>
+  <block id="e43565b3dce418b9df37a2f9ccbcc4bd" category="list-text">如果系统关闭不正确，则会显示一条警告消息。</block>
+  <block id="2c8e117631c6f08c9039f90314fd8195" category="list-text">NetApp 获得了合同。</block>
+  <block id="9fda5fb9a772f0024a87367f5cea4555" category="paragraph">在以下情况下使用被动语音：</block>
+  <block id="003ceb47259c89d1527affc67a914633" category="list-text">您不知道是谁执行了操作，也不知道是什么执行了操作。</block>
+  <block id="c012fbf53ac9515a3c6afd27e2d55d47" category="list-text">您希望避免因操作结果而责备用户。</block>
+  <block id="071c14989c3de25d0d36396910447945" category="list-text">您不能绕过它写，例如，某些前提条件信息。</block>
+  <block id="af64200956f4064e1a823bf61e40dff2" category="paragraph">有关其他动词约定，请参见：</block>
+  <block id="00c1d9795bac737a221ed9550c76fa9c" category="inline-link">Microsoft 写入模式指南</block>
+  <block id="028b46cc7b75d3506f83fd48efbdd6ec" category="list-text"><block ref="028b46cc7b75d3506f83fd48efbdd6ec" category="inline-link-rx"></block></block>
+  <block id="aac49a8fdd48cdfb3fd4114a867ff924" category="inline-link">《芝加哥风格手册》</block>
+  <block id="b9f358df2e687572d0c0748eae52b586" category="list-text"><block ref="b9f358df2e687572d0c0748eae52b586" category="inline-link-rx"></block></block>
+  <block id="97aba9ddd85fa7db3ab0975897188664" category="inline-link">Merriam-Webster 词典在线</block>
+  <block id="a5c0a6970afaed0f8993e80f0367d714" category="list-text"><block ref="a5c0a6970afaed0f8993e80f0367d714" category="inline-link-rx"></block></block>
+  <block id="33f6518588649a99a675cf3b6920a297" category="section-title">荣誉</block>
+  <block id="51081b1df080a1e17eccc89518ca8d20" category="paragraph">请使用以下标签分别标识与主内容流不同的内容：</block>
+  <block id="10de4bc81f754b19b0d27246a0589c05" category="list-text">注意</block>
+  <block id="13979727d586bab6e8bda11cdad7ad56" category="paragraph">请使用注释获取重要信息，这些信息必须与文本的其余部分不同。避免使用注释获取用户了解任务或完成任务所不需要的 " 好知道 " 信息。</block>
+  <block id="1eab470a6f707b92e15040773251a746" category="list-text">提示</block>
+  <block id="80de2a8faacb1711bb579e0ee9293a10" category="paragraph">如果需要，请谨慎使用提示，因为我们的策略是始终在默认情况下记录最佳实践信息。如有必要，请使用提示来提供最佳实践信息，帮助用户使用产品或轻松高效地完成步骤或任务。</block>
+  <block id="18a970540d05e11964e25e6c04e72b53" category="list-text">小心</block>
+  <block id="acf7e64aba7071e147e493ba4b62b706" category="paragraph">请谨慎操作，提醒用户可能发生原因会造成非致命或极为危险的人身伤亡的情况或程序。</block>
+  <block id="4730fb9af1d7470a4eda365c5957916c" category="section-title">之后（而不是一次）</block>
+  <block id="5b576504ca4429405c2bde1e6261e5d6" category="list-text">使用 " 之后 " 指示时间顺序： " 插入计算机后打开计算机。 "</block>
+  <block id="5a3a871d7d2309eb3e1156a1b1feab07" category="list-text">仅使用一次表示一次。</block>
+  <block id="07ccfe360dce69b84595428e2ec1c1cc" category="section-title">此外</block>
+  <block id="06957db97049767f064edfa829e41728" category="list-text">使用 "al又 " 表示 " 另外 " 。</block>
+  <block id="d48a5e563d03d65fabf3db8a9546bc47" category="list-text">不要使用 " 也 " 来表示 " 或者 " 。</block>
+  <block id="db9cdfa0cd758f90d8341ab3a5f4ff2b" category="section-title">和 / 或</block>
+  <block id="5b2f3b950d84523641b7e094eeec8e24" category="paragraph">如果有一个术语，请选择更精确的术语。如果这两个术语都不比另一个术语更精确，请使用 " 和 / 或 " 。</block>
+  <block id="f970e2767d0cfe75876ea857f92e319b" category="section-title">作为</block>
+  <block id="6a31e21ec82baa6c20bac757bffc72eb" category="paragraph">不要使用 "as " 来表示 "because " 。</block>
+  <block id="1bc7acda049c903a563634db1454818a" category="section-title">使用（而不是使用或使用）</block>
+  <block id="c8142131cc29833653036fdf1342fc5f" category="list-text">如果正在使用的实体主题为： " 您可以使用组件菜单向存储库添加新组件 " ，请使用 " 通过使用 " 。</block>
+  <block id="a677e1f957506ca7882c7b477cfba6d5" category="list-text">您可以使用 "Using " 或 "With " 开头一句话，有时产品名称也可以接受这句话： " 使用 SnapDrive ，您可以在 Windows 环境中管理虚拟磁盘和 Snapshot 副本。 "</block>
+  <block id="209aa0af78a1d2f904e56e0c68cea78f" category="section-title">可以（而不是 " 可能 " ， " 可能 " ， " 应该 " 或 " 必须 " ）</block>
+  <block id="cb220724d35d1167bbd7aefdac36544d" category="list-text">使用 "can " 指示功能： " 在此操作步骤期间，您可以随时提交更改。 "</block>
+  <block id="eb8d13d99bb47a62875974eabf7f17a2" category="list-text">使用 " 可能 " 表示可能： " 下载多个程序可能会影响处理时间。 "</block>
+  <block id="1c4e024c5aa9af9183ac743eb6869ed0" category="list-text">请勿使用 "may " ，因为它可能表示功能或权限，因此含义不明确。</block>
+  <block id="2cc35eb381bb87884eea68b6830e3f6f" category="list-text">使用 " 应 " 表示建议但可选的操作。请考虑改用其他短语，例如 " 我们建议 " 。</block>
+  <block id="dfa94a25086a223dac36e5bfddb69ab8" category="list-text">避免使用 " 必须 " ，因为它是被动的。请考虑使用强制性语音将此思想重新表达为一个指令。如果您使用的是 " 必须 " ，请使用它来指示所需的操作或条件。</block>
+  <block id="0e18a46a2b02489fafa6c6df3df6cd0e" category="section-title">大写</block>
+  <block id="b63f5554f4f480aa1ef79652ec27ee13" category="paragraph">几乎所有内容都使用句子形式的大写（小写）。仅资本化：</block>
+  <block id="9dee471d50e8b5fed02a8a6cbbb90cea" category="list-text">句子和标题的第一个词，包括表标题</block>
+  <block id="fada45a13bcaa855c11cdf2cd17ecabb" category="list-text">列出项的第一个词，包括句子片段</block>
+  <block id="9eb4dcddf6980c19c68d5273a13b86c5" category="list-text">正确的名词</block>
+  <block id="eddba1fe20f91ded5ec182b32682e6c7" category="list-text">文档标题和字幕（将五个或更多字母的所有主要词和前言大写）</block>
+  <block id="48d8af07449dc749dcbfeb9a6c1885b4" category="list-text">UI 元素，但前提是它们在界面中大写。否则，请使用小写。</block>
+  <block id="b6dea776027677497d9ec4e6845882fb" category="section-title">小心通知</block>
+  <block id="4ad5d623c472c8819c4f6851ac9feb1a" category="paragraph">请参见 <block ref="8b099210f8d5e10883a9054cab340bdd" category="inline-xref-macro-rx"></block> 用于标识与主内容流不同的内容的其他标签。</block>
+  <block id="6ae8e6245174ea624fcc4a1336dd05af" category="section-title">一致性</block>
+  <block id="d2c92861c000091d81a0411ab74d3b21" category="paragraph">" 向专业同事解释时，您可以像讲话一样写 " 这句话对每个人都有不同的意义。我们的专业对话方式有助于我们与用户建立联系，并增加了多位作者之间细微不一致的频率：</block>
+  <block id="e25398dfd5577f409da4898205f8be16" category="list-text">重点关注内容清晰易用。如果所有内容都清晰易用，则细微的不一致也无关紧要。</block>
+  <block id="188004c76eeadf5c3e45ab44d5faa3bc" category="list-text">在所写页面中保持一致。</block>
+  <block id="abd401c81b52a092eef7f29c422e5a5d" category="list-text">请始终遵循中的准则 <block ref="e6bf2b437b43648d4b736f107bb67511" category="inline-xref-macro-rx"></block>。</block>
+  <block id="322669f84f436ca5d7fcc2d36731876a" category="section-title">收缩</block>
+  <block id="0667b9338a10390acafe32ae7c3b1521" category="paragraph">收缩会强化对话的口音，许多收缩都易于理解和翻译。</block>
+  <block id="8d4dafc6ad003b14fa5e30dbddf58fa2" category="list-text">请使用以下类似的缩写，这些缩写易于理解和翻译：</block>
+  <block id="de50b823bbd4a96bc08ef43cb15fe379" category="cell">不是</block>
+  <block id="fdd70d5503ea1b3645849f7fed4719e9" category="cell">您是</block>
+  <block id="4de6581944a6bd25ecc90a52947add4c" category="cell">不是</block>
+  <block id="075a959179a3ff15345c5865a10c5435" category="cell">我们是</block>
+  <block id="f8291da3d6882dd7a1c80846efe60c1c" category="cell">不是</block>
+  <block id="706dc2ee585fb5dcb18e3ac08da7ce0c" category="cell">是的</block>
+  <block id="a3252eb3d0451297e8a3214fcbc9ed7f" category="cell">不是</block>
+  <block id="3f347890f95ef75c2eacb4f01c622ac9" category="cell">让我们来看看</block>
+  <block id="db8b923a9180129ba0052fbcd986f8b9" category="cell">没有</block>
+  <block id="860409e835ddff6374e51f7a60a2f61f" category="cell">我们将（如果需要应对未来的紧张情况）</block>
+  <block id="59a7709f7ee8c9dadf75615cbe4a79cf" category="cell">不会</block>
+  <block id="3c2bb9e95fa5b8a7d4e0a0d41ad5b86f" category="cell">不会（如果需要未来紧张）</block>
+  <block id="5970929a425637241abb7a44591e32b3" category="cell">请勿</block>
+  <block id="a4b1e16e36a349a9247d2137cac483f8" category="cell">您将（如果需要应对未来的紧张情况）</block>
+  <block id="fa4dcd229606d27eb80b780e6fb39231" category="list-text">请勿使用这些难以理解和翻译的合同：</block>
+  <block id="22b0516e4e0a6a24068d27acc265a339" category="cell">会</block>
+  <block id="9ec050339edf939566225955c7a46050" category="cell">应已完成</block>
+  <block id="7ca6e0da2078511cbe3eb53169be8ca6" category="cell">不会</block>
+  <block id="f4a539d06503e1f877ecb52f310cc7c3" category="cell">不应</block>
+  <block id="caa5017c91c79ca997ec48aa33e90fc9" category="cell">可以</block>
+  <block id="dbc501eb79216263386ba3cfe3cd39b4" category="cell">无法执行此操作</block>
+  <block id="ab3eb88106f999d04a740ab008a0767b" category="section-title">确保（而不是 " 确认 " 或 " 验证 " ）</block>
+  <block id="164762d67b4e5fe97d86d9a9f282ea25" category="list-text">使用 " 确保 " 表示 " 确保 " 。 根据需要包括 " 这一点 " ： " 确保插图周围有足够的空白空间。 "</block>
+  <block id="3676fe680dc352d532d7e7d2de7067e9" category="list-text">切勿使用 " 确保 " 来暗示承诺或保证： " 使用 Cloud Manager 确保您可以在 ONTAP 集群上配置 NFS 和 CIFS 卷。 "</block>
+  <block id="a897a6b4bb270d7a82cbbed2b633f8c5" category="list-text">如果您表示用户应仔细检查已存在或已发生的情况，请使用 " 确认 " 或 " 验证 " ： " 验证是否已在集群上设置 NFS 。 "</block>
+  <block id="73b0472d43069103642ffa07997ff20a" category="section-title">图形</block>
+  <block id="ffe2862494e45f01f343a9146ec2b078" category="paragraph">持续评估内容，以便有机会提供有用的插图，图表，流程图，屏幕截图或其他可视参考。图形通常比文本更清晰地传达复杂的概念和步骤。</block>
+  <block id="3edd0ecd98cebbebd5ce49aac831ddf8" category="list-text">请提供一个问题描述来说明此图的通信目的： " 下图显示了后面板上的交流电源 LED 。</block>
+  <block id="95682870d988f7bc53efabc2c36e9e40" category="list-text">请参考插图位置，如 " 以下 " 或 " 前面 " ，而不是 " 上方 " 或 " 下方 " 。</block>
+  <block id="b3d1bd6a249a6a85c42bc5762cec6e1f" category="section-title">语法</block>
+  <block id="6d327be841a032bf5396053a09819082" category="paragraph">除非另有说明，否则请遵循中详细介绍的语法，标点符号和拼写约定：</block>
+  <block id="edddbccf5720c62aea76f84134446e73" category="section-title">如果不是</block>
+  <block id="f7bcb4d9c40e5093371e80d29232d20d" category="paragraph">请勿单独使用 "if not" 来引用前一句话：</block>
+  <block id="5d057fbef3fbf1f4ea61254d664eb909" category="paragraph">"* 而不是这一点： " 计算机应关闭。如果没有，请将其关闭。 "</block>
+  <block id="f7374e56bb0693536626afe622146018" category="paragraph">* 执行此操作 * ： " 验证计算机是否已关闭。 "</block>
+  <block id="41306d987ed3cbd9c35fe26b8ad29056" category="section-title">如果（而不是 " 是 " 还是 " 何时 " ）</block>
+  <block id="e75cb199a23a6fda0f508191e295846c" category="list-text">使用 "if" 指示条件，例如 " 如果是，则是 " 构造中的条件。</block>
+  <block id="ba94d314308b8ce720d1e63b1a7de711" category="list-text">如果存在明确或隐含的 " 或不 " 条件，请使用 " 是否 " 。为了便于翻译，通常最好将 " 是否 " 替换为 " 是否 " 。</block>
+  <block id="18daca6427f1eda051e5bb57e116a538" category="list-text">使用 " 何时 " 表示一段时间。</block>
+  <block id="935a47d77d7a3c44e0c0b52932eed24b" category="section-title">迫切需要的声音</block>
+  <block id="41a33c483fe196269f1300c300eaacb9" category="list-text">对用户操作列表中的步骤，指令，请求和标题使用强制语音：</block>
+  <block id="9a1897915c6216afb353fcabd9524ea4" category="list-text">" 在工作环境页面上，单击发现并选择 ONTAP 集群。 "</block>
+  <block id="4ebd966121850efc9b5eaee86c22f215" category="list-text">" 旋转凸轮把手，使其与电源平齐。 "</block>
+  <block id="b3ea8b01998e78b3c2e70cc88ad4b0d5" category="list-text">考虑使用强制语音来取代被动语音：</block>
+  <block id="84509c9c0ef2e15f9f3c90a682fb0f76" category="list-text">避免使用强制性语音将步骤嵌入到概念和参考信息中。</block>
+  <block id="c797af56551596c24b34d61ad167502b" category="section-title">IP 和 IPv6 地址</block>
+  <block id="cf4dbcf0b519eef649f72bb2f26667ce" category="paragraph">例如，对于 IP 地址（包括 IPv6 ），可以安全地包含以 "10.x" 开头的任何地址。</block>
+  <block id="cb277327ff86def837ef04f0405c226e" category="section-title">未来的功能或版本</block>
+  <block id="3b07962f1c1c4dc7bf28b0e7e5894a84" category="paragraph">请勿提及即将发布的产品版本或功能的时间安排或内容，只能说某个特性或功能 " 当前不受支持 " 。</block>
+  <block id="e843eeb69636fc6020ca63dad53b5ffb" category="section-title">知识库文章：引用</block>
+  <block id="8aacbd721ee842f62c002641bc604a42" category="paragraph">如果适用，请参阅内容中的知识库（ NetApp 知识库）文章。对于 " 资源 " 页面和 GitHub 内容，请将此链接置于运行文本中。</block>
+  <block id="e6dbca21d4865b265ca2780205b19305" category="section-title">列表</block>
+  <block id="f972727d0d863b69350eed11db8a67bd" category="paragraph">信息列表通常比文本块更易于扫描和吸收。通过以列表形式呈现复杂信息，考虑简化复杂信息的方法。下面是一些一般准则，但请根据您的判断：</block>
+  <block id="652c96d419d82d48f063f9b3698a7ab6" category="list-text">确保列表的原因清晰。使用完整的句子，带有冒号的句子片段或标题来介绍此列表。</block>
+  <block id="74a2e773d99d3b087aa91f4627a9a299" category="list-text">列表应包含两到七个条目。通常，每个条目中的信息越短，您可以添加的条目越多，而列表仍可扫描。</block>
+  <block id="2338eb397c8abd6df9094da8edbe3fdf" category="list-text">列表条目应尽可能可扫描。避免出现妨碍列表条目可扫描的文本块。</block>
+  <block id="abbf51d81adc3957b31167816443126c" category="list-text">列表条目应以大写字母开头，列表条目应以格式并行。例如，使用 noun 或 verb 启动每个条目：</block>
+  <block id="17de64fcb1f9b55eb373463234c451ae" category="list-text">如果所有列表条目都是完整的句子，请以句点结尾。</block>
+  <block id="39b94dd9d8c6008e5e0e0d194931bc90" category="list-text">如果所有列表条目都是句子片段，请勿以句点结尾。</block>
+  <block id="a5b9dd23d74280fb7ba58e82cac098a5" category="list-text">列表条目应按逻辑顺序排列，例如按字母顺序或按时间顺序排列。</block>
+  <block id="0662a73e1733968abaea58a21d0e7d99" category="section-title">本地化</block>
+  <block id="b3d4c2782746a809f3e060ca4df45342" category="paragraph">请参见 <block ref="e6bf2b437b43648d4b736f107bb67511" category="inline-xref-macro-rx"></block>。</block>
+  <block id="6a02ad2d520b51e6b2e6392b2a25afe6" category="section-title">极简主义</block>
+  <block id="a8deee35ded32ce6132adf7972bcf9f2" category="list-text">目前，用户是否需要此内容？</block>
+  <block id="20bcf054830ff9c3e53c74382e6823c6" category="list-text">我能否用较少的语言来呈现内容，而不会听起来过于正式或过于随意？</block>
+  <block id="eb56305480f1800f960d7fe6af51ceac" category="list-text">我可以缩短或简化一句长句，还是将其分成两句或更多句话？</block>
+  <block id="bb012a61ae1699900a94d563de53cdc2" category="list-text">是否可以使用列表使内容更可扫描？</block>
+  <block id="973abe3339e6e5539f176843c11014ae" category="list-text">是否可以使用图形来增加或替换文本块？</block>
+  <block id="eb1d221f6cdc8988e11a42b341cd2d49" category="section-title">NOTE 信息</block>
+  <block id="ee5c35ce3d081da90622a10d2272ed5e" category="section-title">数字</block>
+  <block id="8f9a17dd774590a49d5e848c91e50b86" category="list-text">对于 10 ，使用阿拉伯语数字，并且所有数字均大于 10 ，但以下情况除外：</block>
+  <block id="9a1af7b5c8f5004b90fb140665279371" category="list-text">如果一个句子以数字开头，请使用一个词，而不是阿拉伯语数字。</block>
+  <block id="077368b9c970c37dc92a6bb335fbad3e" category="list-text">请使用词语（而不是数字）表示大致数字。</block>
+  <block id="43446036c64aba99682872d1891efb4d" category="list-text">对于小于 10 的数字，请使用单词。</block>
+  <block id="870854ebb49996ac2172874853907e94" category="list-text">如果一个句子包含小于 10 且大于 10 的数字的混合，请对所有数字使用阿拉伯语数字。</block>
+  <block id="f6645263ec51957cc6f3ae3443a954b3" category="list-text">有关其他数量约定，请参见：</block>
+  <block id="5287f067bd9e6eb8a91e2a9832344b13" category="section-title">政策</block>
+  <block id="936f98f41233816dff46138972fa2953" category="paragraph">我们会记录 NetApp 产品以及 NetApp 产品与第三方产品之间的交互。我们不会记录第三方产品。我们不应需要将第三方内容复制并粘贴到文档中，也不应复制和粘贴到文档中。</block>
+  <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="section-title">前提条件</block>
+  <block id="a34da8c268ec527e1d5925059a96861c" category="paragraph">前提条件用于确定用户在启动当前任务之前必须存在的条件或必须完成的操作。</block>
+  <block id="fe7bd79e9d7c3bcb220bb04b774bb4d5" category="list-text">使用标题确定内容的性质，例如 " 前提条件 " ， " 开始之前 " 或 " 开始之前 " 。</block>
+  <block id="8394944633693445cf2a40752c8f6416" category="list-text">如果有必要，请使用被动语音作为前提条件：</block>
+  <block id="5c46f1d39cb0f638e92780edbcca3698" category="list-text">必须在集群上设置 NFS 或 CIFS 。</block>
+  <block id="c5a33603fcb1ad31b67856b6cec8e903" category="list-text">要将集群添加到云管理器中、您必须具有管理员用户帐户的集群管理 IP 地址和密码。</block>
+  <block id="9a2c90cf0ed0c5fc39129c0806e5da67" category="list-text">根据需要阐明前提条件： " 必须在集群上设置 NFS 或 CIFS 。您可以使用 System Manager 或 CLI 设置 NFS 和 CIFS 。</block>
+  <block id="528a1008a1221d32453075e9ca6eb4f9" category="list-text">请考虑其他显示信息的方式，例如，将内容重命名为当前任务的第一步是否合适：</block>
+  <block id="80afa3b693dea7d0c73497249d7a1c3c" category="list-text">前提条件： " 在部署第一个集群之前，您必须具有所需的权限。 "</block>
+  <block id="12b631fee9688baf4ba19b15eb1b9c4a" category="list-text">步骤： " 提供部署第一个集群所需的权限。 "</block>
+  <block id="af3162878fb6cb3441b612fc24d1b4c9" category="section-title">先前（而不是 " 之前 " ， " 先前 " 或 " 先前 " ）</block>
+  <block id="9758d401c21b103ae3b3d6a0298a62b1" category="list-text">如果可能，请将 " 先前 " 替换为 " 之前 " 。</block>
+  <block id="7effb64d7843e7c28ac29184b711fbe5" category="list-text">如果您不能使用 " 之前 " ，请使用 " 之前 " 作为一个形容词来表示之前或更重要的事情。</block>
+  <block id="c96fcf3c64cb5227a1879dda06698dd6" category="list-text">使用 " 上一步 " 表示之前未指定的时间发生的情况。</block>
+  <block id="883ff354ec6bc47d0be7d29cb8c8423c" category="list-text">使用 " 前面 " 表示之前发生的情况。</block>
+  <block id="9ac6d441030eb0844ffb83ba4f100c94" category="section-title">标点符号</block>
+  <block id="397121b9a7d73a380fe1920cf1a977f4" category="paragraph">保持简单。一般来说，一个句子中包含的标点符号越多，要理解的脑细胞就越多。</block>
+  <block id="2182d64dc233fbc158d44298889d9f56" category="list-text">在包含三个或更多项的叙述列表中，在合并（ " 和 " 或 " ）之前使用一个序列号逗号（ Oxfora 逗号）。</block>
+  <block id="0d04ba12e7e714d951125d0424b0ff70" category="list-text">限制使用分号和冒号。</block>
+  <block id="50324905c471f3d4d61f7d3f723f3644" category="section-title">自此</block>
+  <block id="c9ab9b1734a90fc3a6b9b87d9aabaf55" category="paragraph">使用 " 自 " 表示一段时间。不要使用 " 自 " 表示 " 因为 " 。</block>
+  <block id="fe8ec90a5524db5c338d82b17517dcdb" category="section-title">拼写</block>
+  <block id="da01f0261195de207a317ade84c7ce2a" category="section-title">（与 " 哪些 " 或 " 谁 " 相比）</block>
+  <block id="9901f54d0e3e057debd17f5d8f8e5c04" category="list-text">使用 "that （ that ） " （不带后缀逗号）添加句子所需的子句。</block>
+  <block id="151dfd91fc447e29cf21cf0cb5ff6cdd" category="list-text">即使该句话用英文表述清楚，也使用 "that " ，但不使用 "verify that the computer is off" 。</block>
+  <block id="daf44f3bca464829ecd99cbbbdbf7d5e" category="list-text">使用 " 哪个 " （以逗号结尾）添加子句，这些子句添加支持信息，但这一句话并不需要。</block>
+  <block id="c33b68c4c7251717a35aeaca0e47bce9" category="list-text">使用 " 谁 " 来引入提及人员的条款。</block>
+  <block id="bf611303b2be9960071c292c79b44a34" category="section-title">TIP 信息</block>
+  <block id="3d5cfd3d5e627e33b27fadb6b405a1dd" category="section-title">商标</block>
+  <block id="e273e00cc1e1e5b94a098e24137cf85e" category="inline-link">NetApp 商标术语</block>
+  <block id="a21f9a3a9f34f12ba952d46e928679fd" category="paragraph">我们的大多数技术内容都不包含商标符号，因为我们的模板中的法律声明足以满足要求。但是，我们在使用时会遵循所有使用规则<block ref="2e2a247b84825e1844201424214689d3" category="inline-link-rx"></block>：</block>
+  <block id="20771c4637e265828d5e2a091ea4c61b" category="list-text">使用商标术语（带或不带符号）仅作为形容词，而不是名词，动词或文字。</block>
+  <block id="1633071dc1a74c21f19f086be4f91780" category="list-text">不要使用商标术语的缩写，连字符或斜体。</block>
+  <block id="a1e00e9673f04704b72c69d34ca8e8fe" category="list-text">不要将商标术语多元化。如果需要复数形式，请使用商标名称作为可修改复数名词的词。</block>
+  <block id="8faef2d0a92049ea443f4b932f913298" category="list-text">请勿使用商标术语的 posssive 形式。在一般意义上使用公司名称时，您可以使用 NetApp 等公司名称的形式，而不是商标术语。</block>
+  <block id="41d8e72b4f5f3cc4857e431dec4e269c" category="section-title">用户界面</block>
+  <block id="9d82d4741b1969a54d01e8bf171afc7e" category="paragraph">尽可能依靠界面来指导用户。</block>
+  <block id="d82cb0209a5722e763aa8eb79a8868f1" category="section-title">一般准则</block>
+  <block id="5355febad7711fb3953aa0a70799f4a3" category="paragraph">我们记录 UI 的方式简单而简单：</block>
+  <block id="b8b563f55b69e0abca0d50aa6d8fdcc5" category="list-text">假设用户在读取内容时正在使用界面。</block>
+  <block id="9b63f1e2091c52c7e2a1cdd189e7a586" category="list-text">依靠界面来指导用户：</block>
+  <block id="f5312bdeca5306d070589cf57f03b0de" category="list-text">不要分步指导用户完成向导或屏幕操作。只需从界面中调用不明显的重要内容即可。</block>
+  <block id="219b180f29bb4082f0a3f13fbf13627a" category="list-text">请勿包含 " 单击确定 " ， " 单击保存 " ， " 已创建卷 " 或对执行此任务的人员而言显而易见的任何其他内容。</block>
+  <block id="1b8d1f910b382b0cc9563c9a6075268d" category="list-text">假设成功。除非您希望某个操作在大部分时间都失败，否则请勿记录故障路径。假设接口提供了正确的指导。</block>
+  <block id="10fa8199a030925455c84c7a1ac5f645" category="list-text">完全不要使用 " 单击 " 。请始终使用 "select " ，因为该词涵盖了鼠标，触摸，键盘以及其他任何方式的选择。</block>
+  <block id="cfb6729137a6d954b8da252581dd2b3a" category="list-text">将内容重点放在可解决客户使用情形的工作流上，并将用户引导到界面中的正确位置来启动工作流。</block>
+  <block id="678db84be7d1b3a0571d0bd4777deb5b" category="list-text">始终记录实现用户目标的一种最佳方式。</block>
+  <block id="2e4ba66275505e14599da983d8966f0d" category="list-text">如果工作流需要做出重大决策，请务必记录决策规则。</block>
+  <block id="a69f6b92d1b2cc6e712a2bb8ae42b9ce" category="list-text">大多数情况下，请使用大多数用户所需的最少步骤数。</block>
+  <block id="c8ac8ac544647d0524755cbe9b3c4f13" category="section-title">为 UI 元素命名</block>
+  <block id="f6f6dda79f3e2b59e925c9cc39f4b8b1" category="paragraph">避免记录到需要为 UI 元素命名的粒度级别。借助界面引导用户完成交互的具体内容。如果必须获取该特定名称，请为元素上的标签命名。例如， " 选择所需的卷 " 或 " 选择 ‘使用现有卷 " 。 无需为菜单或单选按钮或复选框命名，只需使用标签即可。</block>
+  <block id="227d3e514604389d1db2b12eb3ed2d5a" category="paragraph">对于用户必须选择的图标，请使用图标的图像。请勿尝试为其命名。此规则适用场景图标包括箭头，铅笔，齿轮， kabob ， HAMBURGER ， 等等。</block>
+  <block id="ea403515c7449c382f3a20bd19ddbd50" category="section-title">表示显示的标签</block>
+  <block id="5b078359de5ea1377775cc2c12b42a23" category="paragraph">在标识标签时，请遵循用户界面使用的拼写和大写字母。如果标签后跟省略号，则在为对象命名时不要包含省略号。鼓励开发人员对用户界面标签使用标题样式的大写字母，以便于编写。</block>
+  <block id="4ef516ca2cc08cdcd670e074e779540e" category="section-title">使用屏幕截图</block>
+  <block id="94d97b8df621fd69669b2aa6dfafa642" category="paragraph">在工作流期间启动或更改接口时，偶尔捕获屏幕（以下简称 " 屏幕截图 " ）有助于用户确信自己在界面中的位置正确。不要使用屏幕截图显示要输入的数据或要选择的值。</block>
+  <block id="7e98c78138dbc7722a43f387f4052b09" category="section-title">虽然（与 " 尽管 " 不同）</block>
+  <block id="feb46c67d37a04caac252d715c9e4613" category="list-text">使用 "while " 指示某个时间发生的情况。</block>
+  <block id="21356e57c78537682c670e8c101a558f" category="list-text">使用 " 尽管 " 表示几乎同时发生的活动或在其他活动之后不久发生的活动。</block>
+  <block id="2e2e2d35a15a6146a9bbbc246a9ea4cd" category="section-title">工作流</block>
+  <block id="af96c6e9b9d96508f00139a0731a545a" category="paragraph">用户可以阅读我们的内容来实现特定目标。用户希望找到所需的内容，实现目标，并返回家中与家人联系。我们的工作不是记录产品或功能，而是记录用户目标。工作流是帮助用户实现目标的最直接方式。</block>
+  <block id="26bcf216756ee1aebfeb7431d225e3c4" category="paragraph">工作流是一系列步骤或子任务，用于说明如何实现用户目标。工作流的范围是一个完整的目标。</block>
+  <block id="36da226eb3fe17950978138e8ad49367" category="paragraph">例如，创建卷的步骤不是工作流，因为创建卷本身并不是一个完整的目标。将存储提供给 ESX 服务器的步骤可以是一个工作流。这些步骤不仅包括创建卷，还包括导出卷，设置任何必要的权限，创建网络接口等。工作流源自客户用例。工作流仅显示实现目标的一种最佳方式。</block>
+  <block id="f0e4224652765b139f46a83b11feccc3" category="sidebar">贡献内容</block>
+  <block id="10d4522e6465e87db3593c69181bea32" category="sidebar">NetApp 文档的模式</block>
+</blocks>
