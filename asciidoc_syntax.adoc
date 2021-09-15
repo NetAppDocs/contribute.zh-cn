@@ -388,6 +388,10 @@ vs1      vol1    aggr2     online    RW  200GB    160.0GB  20%
 ....
 `vserver nfs modify -vserver _name_ -showmount enabled`
 ....
+以下是该命令和变量文本的外观：
+
+`vserver nfs modify -vserver _name_ -showmount enabled`
+
 
 NOTE: 目前，代码语法突出显示不支持下划线。
 

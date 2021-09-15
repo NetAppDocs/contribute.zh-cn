@@ -475,4 +475,6 @@
   <block id="36da226eb3fe17950978138e8ad49367" category="paragraph">例如，创建卷的步骤不是工作流，因为创建卷本身并不是一个完整的目标。将存储提供给 ESX 服务器的步骤可以是一个工作流。这些步骤不仅包括创建卷，还包括导出卷，设置任何必要的权限，创建网络接口等。工作流源自客户用例。工作流仅显示实现目标的一种最佳方式。</block>
   <block id="f0e4224652765b139f46a83b11feccc3" category="sidebar">贡献内容</block>
   <block id="10d4522e6465e87db3593c69181bea32" category="sidebar">NetApp 文档的模式</block>
+  <block id="1c63689daf8192c8174ec60fb9622c70" category="paragraph">以下是该命令和变量文本的外观：</block>
+  <block id="42e7934bd699cbe3d1423783834cc1ca" category="paragraph">`vserver nfs modify -vserver _name_ -showmount enabled`</block>
 </blocks>
