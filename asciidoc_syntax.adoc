@@ -14,7 +14,7 @@ permalink: asciidoc_syntax.html
 
 
 [role="lead"]
-AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。请参见以下章节，开始在 AsciDoc 中写入。
+AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。要开始在 AsciDoc 中写入，请参见此页面。
 
 请参见 http://asciidoctor.org/docs/user-manual/["《 AssiDoctor 用户手册》"^] 以获得更多帮助。
 
