@@ -16,7 +16,6 @@
   <block id="0cc0be5a3257632810d8db494aff25e6" category="paragraph">您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 问题 * 来查看请求的状态：</block>
   <block id="3dd521ea84dae3c68a7c4831eb73ee9c" category="inline-image-macro">问题选项卡</block>
   <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="doc">AsciiDoc 参考</block>
-  <block id="cd0bd58632de2fcc1ba5422e3cca6c4e" category="paragraph">AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。要开始在 AsciDoc 中写入，请参见此页面。</block>
   <block id="f9ad3e2b82cfd8da0b3369fed741706c" category="inline-link">《 AssiDoctor 用户手册》</block>
   <block id="d134affc37050d09a156237dc2cf220e" category="paragraph">请参见<block ref="686ed60828f79dcc43592b9497c7356e" category="inline-link-rx"></block> 以获得更多帮助。</block>
   <block id="5f936d66726370eea0749c9a4d3cca5c" category="section-title">基础知识</block>
@@ -496,4 +495,5 @@
   <block id="88a5eb6b6d68c90223dbe1ecc9129d1a" category="inline-link">AsciiDoctor 文档</block>
   <block id="eb9b66b605c8336a3d2c3912d75f5a3f" category="list-text">。<block ref="277bb80f420881b6a109659a04261392" category="inline-link-rx"></block> 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`</block>
   <block id="5626a4a10f9aac34b82efd657e99bbb4" category="paragraph">但是，我们更喜欢使用一个冒号，如上所示。使用一个冒号的效果相同，它在使用内部工具时效果更好。</block>
+  <block id="6eb1807d4fa2bdda156d7a90de391552" category="paragraph">AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。请参见以下章节，开始在 AsciDoc 中写入。</block>
 </blocks>
