@@ -1,52 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="927796bbaa454c7de262b6c5f63a9498" category="doc">在 GitHub 中提供 NetApp 技术内容</block>
-  <block id="5228344774d765214d271cc876038810" category="paragraph">NetApp 的多种产品和服务的文档均为开源文档。这样，您就可以直接对内容进行贡献，以进行改进，更正和提出建议。您只需要一个 GitHub 帐户和一个小计划即可。</block>
-  <block id="146f2221ee4dce71c48573b3a78b384f" category="paragraph">您可以直接编辑页面或请求我们进行更改。如果您需要有关我们的编写方式和语法的帮助，请使用以下资源：</block>
-  <block id="08dc1654f6cdcafeb4b7b793651b7723" category="inline-link-macro">查看文档源的语法</block>
-  <block id="b502a4b959edbac4fd7b0d572361eee4" category="list-text"><block ref="b502a4b959edbac4fd7b0d572361eee4" category="inline-link-macro-rx"></block></block>
-  <block id="5d087c1cff27e88c1a964731166286aa" category="inline-link-macro">查看 NetApp 文档的风格和声音</block>
-  <block id="e070fb2820f346a3dd367d79c2ff55e2" category="list-text"><block ref="e070fb2820f346a3dd367d79c2ff55e2" category="inline-link-macro-rx"></block></block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
   <block id="2e91d8a2b46d1150d0a32df6d40575f5" category="inline-link">从 github.com 创建一个</block>
   <block id="3abb7514ea5c7ede0747a0733732c2f3" category="list-text">如果您还没有 GitHub 帐户，<block ref="23432af0d50ca18ea33f0fbce4450214" category="inline-link-rx"></block>。</block>
   <block id="b18871a00508acb170fcc72706ee5239" category="list-text">登录到您的 GitHub 帐户。</block>
-  <block id="1a5342f56c20c51fdd7b42a289f407b7" category="list-text">使用浏览器打开要提供信息的页面。</block>
-  <block id="665e38d4cc52bc49aa3819f878619c72" category="paragraph">您可以直接编辑此页面，也可以请求更改此页面。</block>
-  <block id="19767061c412fafbb13bd5d119ef8113" category="list-text">要编辑页面，请执行以下操作：</block>
-  <block id="189c6c34221fcb57f76b4fff137ce702" category="list-text">在 " 贡献 " 下，单击 * 在 GitHub 上编辑 * 。</block>
-  <block id="06c48f0ff675a1331b3e9e49bc1f6f1e" category="inline-image-macro">在 GitHub 上编辑</block>
-  <block id="1c6ad4efbd0e6a08a74c1b104683f5c5" category="paragraph"><block ref="1c6ad4efbd0e6a08a74c1b104683f5c5" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="11743fae7071ba41c063d79f9d47ca33" category="list-text">单击铅笔图标并开始编辑内容。</block>
-  <block id="be838e02af3d2bacb04fbc2880042163" category="paragraph">此内容以一种轻量化标记语言 AsciDoc 编写。</block>
-  <block id="52f1e9b7668fc16cad5166f6495b2f91" category="inline-link-macro">AsciDoc 备忘单</block>
-  <block id="0ae2a118f2dda46de41c746e9292866c" category="paragraph"><block ref="0ae2a118f2dda46de41c746e9292866c" category="inline-link-macro-rx"></block></block>
   <block id="caa1e25984e775c1ab44cfd42620d720" category="inline-image-macro">铅笔图标</block>
-  <block id="88f62b3e84a51635cf5cbf1e53120c06" category="paragraph"><block ref="88f62b3e84a51635cf5cbf1e53120c06" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d470dc77895be6d3289f18d71d21256c" category="list-text">要提交更改，请向下滚动页面，选择 * 为此提交创建新分支并启动提取请求 * ，然后单击 * 建议文件更改 * 。</block>
   <block id="0c78a81fa65e4357f7ee46b933c7e6dd" category="paragraph">GitHub 会自动为此更改填写一个分支名称（例如 _username-pater-n_ ）。</block>
   <block id="931231a18711fc1a896b57286e811c85" category="inline-image-macro">建议文件更改</block>
-  <block id="1c98441615b75b7b4dd2424f328a68e1" category="paragraph"><block ref="1c98441615b75b7b4dd2424f328a68e1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="3ae1151e4be411b5f717a9545786a443" category="list-text">提供有关所做编辑的注释，然后单击 * 创建拉取请求 * 。</block>
   <block id="de275cc7c4f3e817ed9ecc4e830c24d7" category="inline-image-macro">创建提取请求</block>
-  <block id="cd513965f13ef948f0c3b13552598858" category="paragraph"><block ref="cd513965f13ef948f0c3b13552598858" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="882f4c0e96d0ee1e0f76ee012723caf5" category="paragraph">在您提出更改建议后，我们将查看这些更改并将其合并到 GitHub 存储库中。</block>
-  <block id="1b298dec052f6b43025abe6b9aa176a8" category="paragraph">您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 拉取请求 * 来查看拉取请求的状态：</block>
   <block id="eb343639c45a95881e36d4973088d4ee" category="inline-image-macro">拉取请求选项卡</block>
-  <block id="f6c6236611b62805f70cf5b438a69171" category="paragraph"><block ref="f6c6236611b62805f70cf5b438a69171" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="50127da97fc4ced3247d533cf9897a10" category="list-text">请求更改页面：</block>
-  <block id="5148133edc2261bd83f90bcca7e7c2c8" category="list-text">在 " 贡献 " 下，单击 * 请求文档更改 * 。</block>
   <block id="951885a0dd056fe4b77aec324c26ddc3" category="inline-image-macro">请求文档更改</block>
-  <block id="5f5e28e33ce68bf0f36cc44e1432c579" category="paragraph"><block ref="5f5e28e33ce68bf0f36cc44e1432c579" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="bf7f5045cec10ba95d57c65df9a970af" category="paragraph">此时将显示一个文本框，用于提供请求详细信息。</block>
-  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="list-text">在文本框中提供详细信息，然后单击 * 提交新问题描述 * 为您的请求创建问题描述。</block>
-  <block id="d0b7efc470de41ef0813d7b834eb1e08" category="paragraph">此文本框会预先填充页面的标题和 URL 。请勿删除此信息。</block>
   <block id="f6e56229ccb769a21a8ee36c8ce1097b" category="inline-image-macro">提交新的问题描述</block>
-  <block id="e9b5cfc4b4bf53ce9ec6d120a2c302e8" category="paragraph"><block ref="e9b5cfc4b4bf53ce9ec6d120a2c302e8" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="4be02c3b6a1dbb553947465f6eafa24e" category="paragraph">打开问题描述可以通过 GitHub 注释实现协作。根据您在 GitHub 帐户设置中指定的首选项，您将收到电子邮件通知。</block>
   <block id="0cc0be5a3257632810d8db494aff25e6" category="paragraph">您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 问题 * 来查看请求的状态：</block>
   <block id="3dd521ea84dae3c68a7c4831eb73ee9c" category="inline-image-macro">问题选项卡</block>
-  <block id="9f76e49f1ac670fcfcfd481e689d9d99" category="paragraph"><block ref="9f76e49f1ac670fcfcfd481e689d9d99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="doc">AsciiDoc 参考</block>
   <block id="cd0bd58632de2fcc1ba5422e3cca6c4e" category="paragraph">AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。要开始在 AsciDoc 中写入，请参见此页面。</block>
   <block id="f9ad3e2b82cfd8da0b3369fed741706c" category="inline-link">《 AssiDoctor 用户手册》</block>
@@ -477,4 +445,55 @@
   <block id="10d4522e6465e87db3593c69181bea32" category="sidebar">NetApp 文档的模式</block>
   <block id="1c63689daf8192c8174ec60fb9622c70" category="paragraph">以下是该命令和变量文本的外观：</block>
   <block id="42e7934bd699cbe3d1423783834cc1ca" category="paragraph">`vserver nfs modify -vserver _name_ -showmount enabled`</block>
+  <block id="5b1673a33a3bc92200f7685076cfb382" category="paragraph">NetApp 产品和服务的文档为开源文档。这样，您就可以通过改进，更正和建议来为内容做出贡献。您只需要一个 GitHub 帐户和一个小计划即可。</block>
+  <block id="3b878279a04dc47d60932cb294d96259" category="section-title">概述</block>
+  <block id="f1eb983643f08d3d76ff0c9dcdd99f9b" category="paragraph">您可以使用以下选项为文档提供内容：</block>
+  <block id="8cde20289ec80332bf3964328635ceb5" category="list-text">单击 * 请求文档更改 * 可提交一般反馈或询问有关内容的问题。然后， NetApp 内容主管会审核您的请求，确定需要对文档进行哪些更改。这是最常见的选项。</block>
+  <block id="23d6db8a7a0210825154e8421432bd93" category="inline-xref">查看此选项的分步说明</block>
+  <block id="7529a6aeec9295f2f09df129b4d04439" category="paragraph"><block ref="bdef3b81bca2a18babf456d240e884c2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="f9acf8da15ab4fb5a75a7c0351d299b6" category="list-text">单击 * 编辑此页面 * 可直接自行编辑内容。然后， NetApp 内容主管会审核您的编辑内容并将其合并。</block>
+  <block id="fc6fa4fa9c3500ee1dd0b740b3114c08" category="paragraph"><block ref="c1785ec6df9b224ef79cf3c09e64e1f0" category="inline-xref-macro-rx"></block>。</block>
+  <block id="c32408dce34914d1382b48004c1bf8b6" category="paragraph">提交文档更改请求是向 NetApp 文档提供信息的最常见方式。提交申请后，内容主管将确认他们已收到您的反馈。此时，您将收到 GitHub 发送的电子邮件通知。</block>
+  <block id="7c7af2a4854e39ebf4680896ae4a923c" category="paragraph">如果内容主管同意您的建议可以使内容更好，他们将在之后不久提交更改。您将收到另一条通知，指出您的反馈已被采纳。</block>
+  <block id="a05fae06f0ea6344a1a2e3664f26c452" category="admonition">您提供的所有注释均可公开查看。在 GitHub 报告中导航到问题的任何人都可以看到您的意见。</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="8a4e27c18032ec0b6639a19d635d31e4" category="list-text">使用 Web 浏览器打开上的页面<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block> 这与您的反馈相关。</block>
+  <block id="1f619b573ae23c66ea41f59e590271bc" category="list-text">在页面右侧，单击 * 请求文档更改 * 。</block>
+  <block id="58d1e1d3dad3ec015e2540b3713ef488" category="paragraph"><block ref="58d1e1d3dad3ec015e2540b3713ef488" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="da894d315c3a28edc86e627db54669ca" category="paragraph">此时将打开一个新的浏览器选项卡，其中包含一个表单，您可以使用此表单向文档团队提供详细信息。</block>
+  <block id="5f2272ef73288779845c4c08e2f59ebf" category="list-text">输入标题，然后提供有关您的请求的详细信息。</block>
+  <block id="aced665f55b18038fb5c4f5d628e63ab" category="paragraph">注释字段会预先填入页面的标题和 URL 。请勿删除此信息，因为我们需要此信息来了解您的请求。</block>
+  <block id="947e4b9915f7e5c398e8dbce136bcf89" category="paragraph"><block ref="947e4b9915f7e5c398e8dbce136bcf89" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2890ce089ba2b3aaa1f10b5e3e703a49" category="list-text">单击 * 提交新问题描述 * 为您的请求创建问题描述。</block>
+  <block id="95aee4fc901facb0b53ed386f6ba53da" category="paragraph">打开问题描述可以通过 GitHub 注释实现协作。您将根据您在 GitHub 帐户设置中指定的首选项收到电子邮件通知。</block>
+  <block id="0e3fe7eab71196775ffe760806bbfb3e" category="paragraph"><block ref="0e3fe7eab71196775ffe760806bbfb3e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1482bc2757808e2d1858d6d85b2b3760" category="section-title">提交对文档的编辑</block>
+  <block id="adcb9bdb1b09c21b0c4ebd90bea887b4" category="paragraph">如果您可以自行编辑内容，则可以通过直接编辑源文件来提交您希望看到的确切文档更改。</block>
+  <block id="b1f21a83d31638b65d6935686b2feb28" category="paragraph">作为外部贡献者，您无法直接发布更改。内容主管将查看所做的更改，进行任何必要的编辑，然后合并所做的更改。如果发生这种情况， GitHub 会向您发送一封电子邮件通知。</block>
+  <block id="f827e33f584cf187cf4dc21885d3a813" category="paragraph">如果您需要有关我们的写入模式或源语法的帮助，可以使用以下资源：</block>
+  <block id="c0401f891276697902a45a2088f0b8b5" category="list-text"><block ref="c0401f891276697902a45a2088f0b8b5" category="inline-link-macro-rx"></block></block>
+  <block id="10785bb6cb06604e049556197d164114" category="inline-link-macro">AsciDoc 语法</block>
+  <block id="5a154fee0d82d09b2f38381ace957a3a" category="list-text"><block ref="5a154fee0d82d09b2f38381ace957a3a" category="inline-link-macro-rx"></block></block>
+  <block id="579b796bc7d54ee31ef84e8c48422971" category="list-text">使用 Web 浏览器打开上的页面<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block> 要编辑的内容。</block>
+  <block id="7a662600d17a7a3fc3d67377bf85d44b" category="list-text">在页面右侧，单击 * 编辑此页面 * 。</block>
+  <block id="e7d8ad09698890d7f20cd3a3b8e95fc8" category="inline-image-macro">编辑此页面</block>
+  <block id="a4589f41d9a3b1bd4142ba0e7cfdc9ef" category="paragraph"><block ref="a4589f41d9a3b1bd4142ba0e7cfdc9ef" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b59c044d870fb1294e907044621f124b" category="list-text">单击铅笔图标。</block>
+  <block id="e2e5c2e55b331168cbbca8d31c8231aa" category="paragraph"><block ref="e2e5c2e55b331168cbbca8d31c8231aa" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="792d0dce959b2d9ae148b407c3b1fcdc" category="list-text">编辑内容。</block>
+  <block id="a00f3d1c6f1da7962755317b49908656" category="inline-link-macro">单击此处了解 AsciDoc 语法</block>
+  <block id="3064132ace3608ae734c003590fb2fe4" category="paragraph">此内容以一种轻量化标记语言 AsciDoc 编写。如果您需要帮助， <block ref="2bedc0416ed9f3a7518e6a4699b53152" category="inline-link-macro-rx"></block>。</block>
+  <block id="2d03f964de7fdb330c454135ee653115" category="list-text">要提交更改，请向下滚动页面并填写表单：</block>
+  <block id="61a1e31c63e5f226790417c1f720a1a0" category="list-text">输入标题和可选问题描述。</block>
+  <block id="72f37f83756bbfaf46021d50b742f9e1" category="list-text">选择 * 为此提交创建新分支并启动提取请求 * 。</block>
+  <block id="d153affd9948551a245f582eb2c07226" category="list-text">单击 * 建议更改 * 。</block>
+  <block id="093fde2206aa408d480819dfd5a67301" category="paragraph"><block ref="093fde2206aa408d480819dfd5a67301" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eff336df8f860a8a23a11f39595d1d8a" category="paragraph"><block ref="eff336df8f860a8a23a11f39595d1d8a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3ca8213edfdeec4eefac41aec2db1d81" category="paragraph">在您提出更改建议后，我们将查看这些更改，进行任何必要的编辑，然后将这些更改合并到 GitHub 存储库中。</block>
+  <block id="b5dd88b790a83a46fee3bc8055ca8606" category="paragraph">您可以单击 GitHub 搜索框旁边顶部横幅上的 * 拉取请求 * 来查看拉取请求的状态：</block>
+  <block id="179de754e52640d4cfddf43d10964d76" category="paragraph"><block ref="179de754e52640d4cfddf43d10964d76" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8183edfde3465c9016aab7bccd65b592" category="paragraph">两个注释：</block>
+  <block id="88a5eb6b6d68c90223dbe1ecc9129d1a" category="inline-link">AsciiDoctor 文档</block>
+  <block id="eb9b66b605c8336a3d2c3912d75f5a3f" category="list-text">。<block ref="277bb80f420881b6a109659a04261392" category="inline-link-rx"></block> 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`</block>
+  <block id="5626a4a10f9aac34b82efd657e99bbb4" category="paragraph">但是，我们更喜欢使用一个冒号，如上所示。使用一个冒号的效果相同，它在使用内部工具时效果更好。</block>
 </blocks>

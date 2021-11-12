@@ -139,12 +139,18 @@ TIP: + 是一个列表继续。它会使文本与列表项保持一致。省略 
 === 映像
 
 ....
-image::file.gif["alt text"]
+image:file.png["alt text"]
 ....
 _alt text_ 表示备用文本。它介绍了页面上显示的映像。主要用于使用屏幕读取器的视觉受损用户。
 
+两个注释：
 
-TIP: 最好用引号将可选文字括起来，因为像逗号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。
+. 最好用引号将可选文字括起来，因为像逗号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。
+. 。 https://docs.asciidoctor.org/asciidoc/latest/macros/images/["AsciiDoctor 文档"^] 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`
++
+但是，我们更喜欢使用一个冒号，如上所示。使用一个冒号的效果相同，它在使用内部工具时效果更好。
+
+
 
 
 
