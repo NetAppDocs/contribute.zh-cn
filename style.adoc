@@ -5,6 +5,7 @@ permalink: style.html
 = NetApp 文档风格指南
 :toc: macro
 :hardbreaks:
+:allow-uri-read: 
 :toc: 
 :nofooter: 
 :icons: font
