@@ -173,9 +173,9 @@ video::file.mp4
 
 应使用的语法取决于要链接到的内容：
 
-* <<Link to an external site>>
-* <<Link to a section on the same page>>
-* <<Link to another page in the docs>>
+*  to an external site
+*  to a section on the same page
+*  to another page in the docs
 
 
 
@@ -281,7 +281,7 @@ summary: "A summary."
 
 TIP: 最好将摘要用引号括起来，因为像冒号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。
 
-下一个标题直接位于文档标题下（请参见 <<Headings>>）。此标题应包括以下内容：
+下一个标题直接位于文档标题下（请参见 ）。此标题应包括以下内容：
 
 ....
 :hardbreaks:
