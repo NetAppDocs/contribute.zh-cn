@@ -509,30 +509,3 @@ https://github.com/NetAppDocs/cloud-tiering["例如，请查看 Cloud Tiering �
 就是这样！
 
 如果您希望了解有关 include 指令的更多信息， https://asciidoctor.org/docs/user-manual/#include-directive["查看《 AssiDoctor 用户手册》"^]。
-
-
-
-=== 带有链接的映像
-
-您可以向映像添加链接，使其像 " 按钮 " 。
-
-* 输出示例 *
-
-在以下屏幕截图中， "View in Documentation Center" 是一个包含链接的映像。
-
-image::image_with_link.gif[显示 " 在文档中心中查看 " 的按钮的图像]
-
-* 语法 *
-
-添加映像时，请使用以下语法：
-
-....
-image:<file_name>.<ext>[alt=<text>,link=<url>,window=_blank]
-....
-"window=_blank" 将在新的浏览器选项卡（或窗口）中打开此链接。
-
-例如：
-
-....
-image:btn-view-in-doc-center.png[alt=A button titled View in Documentation Center that links to the NetApp HCI Doc Center,link=http://docs.netapp.com/hci/index.jsp,window=_blank]
-....
