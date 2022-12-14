@@ -173,9 +173,9 @@ video::file.mp4
 
 应使用的语法取决于要链接到的内容：
 
-*  to an external site
-*  to a section on the same page
-*  to another page in the docs
+* <<链接到外部站点>>
+* <<链接到同一页面上的某个部分>>
+* <<链接到文档中的其他页面>>
 
 
 
@@ -281,7 +281,7 @@ summary: "A summary."
 
 TIP: 最好将摘要用引号括起来，因为像冒号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。
 
-下一个标题直接位于文档标题下（请参见 ）。此标题应包括以下内容：
+下一个标题直接位于文档标题下（请参见 <<标题>>）。此标题应包括以下内容：
 
 ....
 :hardbreaks:
@@ -334,12 +334,16 @@ https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#tables["有关更�
 
 根据需要使用以下标题：
 
+.您需要的内容
 用户完成任务所需的信息。 _
 
+.关于此任务
 _ 用户可能需要了解的有关此任务的一些额外上下文信息。 _
 
+.步骤
 _ 完成任务的各个步骤。 _
 
+.下一步是什么？
 _ 用户接下来应执行的操作。 _
 
 其中每个都应包括。就在文本前面，如下所示：

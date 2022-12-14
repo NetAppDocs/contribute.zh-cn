@@ -126,14 +126,6 @@
   <block id="95765c2dfda7d084715936053f502991" category="paragraph">就是这样！</block>
   <block id="514e377a927694fc176e85fdf041aca4" category="inline-link">查看《 AssiDoctor 用户手册》</block>
   <block id="26c37afe99559e49b8e1997dc66b06a4" category="paragraph">如果您希望了解有关 include 指令的更多信息，<block ref="3614cbd0aad04b2c40fced01c250f6c0" category="inline-link-rx"></block>。</block>
-  <block id="5a475e4efa7b8ddf2d6321000dc8cbba" category="section-title">带有链接的映像</block>
-  <block id="12cefe5430e1589c2511b55bc8ab45d6" category="paragraph">您可以向映像添加链接，使其像 " 按钮 " 。</block>
-  <block id="5c58eb07dae698bdbd546d0e3ee7a618" category="paragraph">* 输出示例 *</block>
-  <block id="74cd97b5776c170bc107c0ef3fa1f43f" category="paragraph">在以下屏幕截图中， "View in Documentation Center" 是一个包含链接的映像。</block>
-  <block id="a92a4dce2a7a1ef62836f3c525107ff5" category="image-alt">显示 " 在文档中心中查看 " 的按钮的图像</block>
-  <block id="5622b64e835ffe9267d8000cea15b529" category="paragraph">* 语法 *</block>
-  <block id="dc2f84b1e0863d2edcde8848baa4ae90" category="paragraph">添加映像时，请使用以下语法：</block>
-  <block id="5b09c2bf3bfcd66efa7232ef81a3b929" category="paragraph">"window=_blank" 将在新的浏览器选项卡（或窗口）中打开此链接。</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">法律声明提供对版权声明、商标、专利等的访问。</block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律声明</block>
   <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版权</block>
@@ -496,4 +488,8 @@
   <block id="eb9b66b605c8336a3d2c3912d75f5a3f" category="list-text">。<block ref="277bb80f420881b6a109659a04261392" category="inline-link-rx"></block> 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`</block>
   <block id="5626a4a10f9aac34b82efd657e99bbb4" category="paragraph">但是，我们更喜欢使用一个冒号，如上所示。使用一个冒号的效果相同，它在使用内部工具时效果更好。</block>
   <block id="6eb1807d4fa2bdda156d7a90de391552" category="paragraph">AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。请参见以下章节，开始在 AsciDoc 中写入。</block>
+  <block id="d59db7846bd10b6d60d21543df9faa9e" category="paragraph-title">您需要的内容</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">关于此任务</block>
+  <block id="58eaebf972358f1cf03d386a4ade1a0f" category="paragraph-title">下一步是什么？</block>
+  <block id="7acb8defb656ebd5f9decf15c05926ca" category="paragraph-title">完成后</block>
 </blocks>
