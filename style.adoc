@@ -108,8 +108,8 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 大多数人都是视觉学习者。使用视频，图表和屏幕截图改进学习。视觉效果还有助于拆分文本块。
 
 .示例
-* https://["示例 1"^]
-* https://["示例 2"^]
+* https://docs.netapp.com/us-en/occm/concept_accounts_aws.html["示例 1"^]
+* https://docs.netapp.com/us-en/occm/task_getting_started_azure.html["示例 2"^]
 
 
 另请参见 <<图形>>。
@@ -121,8 +121,8 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 使用标题，列表和表帮助用户扫描所需内容。
 
 .示例
-* https://["示例 1"^]
-* https://["示例 2"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["示例 1"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/reference_selecting_service_level_and_quota.html["示例 2"^]
 
 
 
@@ -132,8 +132,8 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 如果您要介绍如何完成一系列任务，请将其全部放在一系列章节的一页上，包括概念和基于参考的信息。不要将页面拆分为多个迷你页面，因为这需要单击太多。同时，不要创建冗长且令人望而生畏的页面。根据您的最佳判断来确定页面过长的时间。
 
 .示例
-* https://["示例 1"^]
-* https://["示例 2"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["示例 1"^]
+* https://docs.netapp.com/us-en/occm/concept_ha.html["示例 2"^]
 
 
 
@@ -200,9 +200,9 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 
 有关其他动词约定，请参见：
 
-* https://["Microsoft 写入模式指南"^]
-* https://["《芝加哥风格手册》"^]
-* https://["Merriam-Webster 词典在线"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft 写入模式指南"^]
+* https://www.chicagomanualofstyle.org/home.html["《芝加哥风格手册》"^]
+* https://www.merriam-webster.com/["Merriam-Webster 词典在线"^]
 
 
 
@@ -375,9 +375,9 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 
 除非另有说明，否则请遵循中详细介绍的语法，标点符号和拼写约定：
 
-* https://["Microsoft 写入模式指南"^]
-* https://["《芝加哥风格手册》"^]
-* https://["Merriam-Webster 词典在线"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft 写入模式指南"^]
+* https://www.chicagomanualofstyle.org/home.html["《芝加哥风格手册》"^]
+* https://www.merriam-webster.com/["Merriam-Webster 词典在线"^]
 
 
 
@@ -494,8 +494,8 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 * 如果一个句子包含小于 10 且大于 10 的数字的混合，请对所有数字使用阿拉伯语数字。
 * 有关其他数量约定，请参见：
 +
-** https://["Microsoft 写入模式指南"^]
-** https://["《芝加哥风格手册》"^]
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft 写入模式指南"^]
+** https://www.chicagomanualofstyle.org/home.html["《芝加哥风格手册》"^]
 
 
 
@@ -548,9 +548,9 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 * 限制使用分号和冒号。
 * 除非另有说明，否则请遵循中详细介绍的语法，标点符号和拼写约定：
 +
-** https://["Microsoft 写入模式指南"^]
-** https://["《芝加哥风格手册》"^]
-** https://["Merriam-Webster 词典在线"^]
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft 写入模式指南"^]
+** https://www.chicagomanualofstyle.org/home.html["《芝加哥风格手册》"^]
+** https://www.merriam-webster.com/["Merriam-Webster 词典在线"^]
 
 
 
@@ -567,9 +567,9 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 
 除非另有说明，否则请遵循中详细介绍的语法，标点符号和拼写约定：
 
-* https://["Microsoft 写入模式指南"^]
-* https://["《芝加哥风格手册》"^]
-* https://["Merriam-Webster 词典在线"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft 写入模式指南"^]
+* https://www.chicagomanualofstyle.org/home.html["《芝加哥风格手册》"^]
+* https://www.merriam-webster.com/["Merriam-Webster 词典在线"^]
 
 
 
@@ -594,7 +594,7 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 
 === 商标
 
-我们的大多数技术内容都不包含商标符号，因为我们的模板中的法律声明足以满足要求。但是，我们在使用时会遵循所有使用规则 https://["NetApp 商标术语"^]：
+我们的大多数技术内容都不包含商标符号，因为我们的模板中的法律声明足以满足要求。但是，我们在使用时会遵循所有使用规则 https://www.netapp.com/us/legal/netapptmlist.aspx["NetApp 商标术语"^]：
 
 * 使用商标术语（带或不带符号）仅作为形容词，而不是名词，动词或文字。
 * 不要使用商标术语的缩写，连字符或斜体。
