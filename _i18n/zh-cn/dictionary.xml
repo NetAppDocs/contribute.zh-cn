@@ -505,4 +505,12 @@
   <block id="2518fdb0845f92d5d9fe4aca9f03f286" category="list-text">所有员工、承包商和合作伙伴都应遵守此政策。重复违规可能会导致创作权限被暂停。</block>
   <block id="ce9532327a3742b7a0020c494ee0ef96" category="list-text">所有嵌入在工作计算机上安装的软件中的基于AI的内容生成技术、包括Microsoft 365联合试点计划等技术、都会将您的数据发送给托管此辅助技术的公司。请勿使用公司机密内容来提示此类技术、包括但不限于未发布的产品功能的规格。</block>
   <block id="a82c75ffafc08b7d85426b8da8626a7a" category="list-text">请勿使用公共AI技术生成或编辑产品中有关*以前未发布的*产品、产品版本或功能的技术文档。</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
 </blocks>
