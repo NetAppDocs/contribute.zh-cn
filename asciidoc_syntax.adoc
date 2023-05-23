@@ -17,7 +17,7 @@ permalink: asciidoc_syntax.html
 [role="lead"]
 AsciDoc 是一种轻型标记语言，类似于 Markdown 。我们选择了 AsciDoc 而不是标准的 Markdown ，因为它提供了更多的即装即用功能。虽然功能更强大，但使用起来仍然很简单。请参见以下章节，开始在 AsciDoc 中写入。
 
-请参见 http://asciidoctor.org/docs/user-manual/["《 AssiDoctor 用户手册》"^] 以获得更多帮助。
+请参见 http://["《 AssiDoctor 用户手册》"^] 以获得更多帮助。
 
 
 
@@ -147,7 +147,7 @@ _alt text_ 表示备用文本。它介绍了页面上显示的映像。主要用
 两个注释：
 
 . 最好用引号将可选文字括起来，因为像逗号这样的标点符号可能会影响将内容从 AsciDoc 转换为 HTML 的功能。
-. 。 https://docs.asciidoctor.org/asciidoc/latest/macros/images/["AsciiDoctor 文档"^] 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`
+. 。 https://["AsciiDoctor 文档"^] 说明 _block images_ should be on their own line with _twent_ colons ： `image ：：： file.png`
 +
 但是，我们更喜欢使用一个冒号，如上所示。使用一个冒号的效果相同，它在使用内部工具时效果更好。
 
@@ -319,12 +319,12 @@ This is my lead paragraph for this content.
 | row 2 column 1 | row 2 column 2
 |===
 ....
-可以通过 _many _ 方法设置表的格式。请参见 https://asciidoctor.org/docs/user-manual/#tables["《 AssiDoctor 用户手册》"^] 以获得更多帮助。
+可以通过 _many _ 方法设置表的格式。请参见 https://["《 AssiDoctor 用户手册》"^] 以获得更多帮助。
 
 
 TIP: 如果单元格包含带格式的内容，例如项目符号列表，最好在列标题中添加 "A" 以启用格式化。例如： [cols="2 ， 2 ， 4a" options="header ]]
 
-https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#tables["有关更多表示例，请参见《 AssiDoc 语法快速参考》"^]。
+https://["有关更多表示例，请参见《 AssiDoc 语法快速参考》"^]。
 
 
 
@@ -485,7 +485,7 @@ curl -s https:///v1/ \
 
 . 在存储库中创建一个名为 _include 的文件夹
 +
-https://github.com/NetAppDocs/cloud-tiering["例如，请查看 Cloud Tiering 存储库"^]。
+https://["例如，请查看 Cloud Tiering 存储库"^]。
 
 . 在该文件夹中添加一个 .adoc 文件，其中包含要重复使用的内容。
 +
@@ -512,4 +512,4 @@ https://github.com/NetAppDocs/cloud-tiering["例如，请查看 Cloud Tiering �
 
 就是这样！
 
-如果您希望了解有关 include 指令的更多信息， https://asciidoctor.org/docs/user-manual/#include-directive["查看《 AssiDoctor 用户手册》"^]。
+如果您希望了解有关 include 指令的更多信息， https://["查看《 AssiDoctor 用户手册》"^]。

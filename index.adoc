@@ -48,9 +48,9 @@ video::0A-xQJaDkco[youtube,width=848,height=480]
 TIP: 您提供的所有注释均可公开查看。在 GitHub 报告中导航到问题的任何人都可以看到您的意见。
 
 .步骤
-. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]。
+. 如果您还没有 GitHub 帐户， https://["从 github.com 创建一个"^]。
 . 登录到您的 GitHub 帐户。
-. 使用 Web 浏览器打开上的页面 https://docs.netapp.com["docs.netapp.com"] 这与您的反馈相关。
+. 使用 Web 浏览器打开上的页面 https://["docs.netapp.com"] 这与您的反馈相关。
 . 在页面右侧，单击 * 请求文档更改 * 。
 +
 image:screenshot-request-doc-changes.png["请求文档更改"]
@@ -90,9 +90,9 @@ image:screenshot-issues.png["问题选项卡"]
 
 
 .步骤
-. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]。
+. 如果您还没有 GitHub 帐户， https://["从 github.com 创建一个"^]。
 . 登录到您的 GitHub 帐户。
-. 使用 Web 浏览器打开上的页面 https://docs.netapp.com["docs.netapp.com"] 要编辑的内容。
+. 使用 Web 浏览器打开上的页面 https://["docs.netapp.com"] 要编辑的内容。
 . 在页面右侧，单击 * 编辑此页面 * 。
 +
 image:screenshot-edit-this-page.png["编辑此页面"]
