@@ -393,7 +393,6 @@
   <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
   <block id="8a4e27c18032ec0b6639a19d635d31e4" category="list-text">使用 Web 浏览器打开上的页面<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block> 这与您的反馈相关。</block>
   <block id="58d1e1d3dad3ec015e2540b3713ef488" category="paragraph"><block ref="58d1e1d3dad3ec015e2540b3713ef488" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="da894d315c3a28edc86e627db54669ca" category="paragraph">此时将打开一个新的浏览器选项卡，其中包含一个表单，您可以使用此表单向文档团队提供详细信息。</block>
   <block id="947e4b9915f7e5c398e8dbce136bcf89" category="paragraph"><block ref="947e4b9915f7e5c398e8dbce136bcf89" category="inline-image-macro-rx" type="image"></block></block>
   <block id="95aee4fc901facb0b53ed386f6ba53da" category="paragraph">打开问题描述可以通过 GitHub 注释实现协作。您将根据您在 GitHub 帐户设置中指定的首选项收到电子邮件通知。</block>
   <block id="0e3fe7eab71196775ffe760806bbfb3e" category="paragraph"><block ref="0e3fe7eab71196775ffe760806bbfb3e" category="inline-image-macro-rx" type="image"></block></block>
@@ -443,7 +442,6 @@
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
   <block id="97dd767bd76bea2996ce155f6fded935" category="list-text">选择*请求文档更改*以提交一般反馈或询问有关内容的问题。然后， NetApp 内容主管会审核您的请求，确定需要对文档进行哪些更改。这是最常见的选项。</block>
   <block id="52b3d02fd2caf09c367f6a8e47835fc2" category="list-text">选择*编辑此页*可直接自行编辑内容。然后， NetApp 内容主管会审核您的编辑内容并将其合并。</block>
-  <block id="c9dfb8a3cf2c4d02f86adae4807900dc" category="paragraph">以下视频简要概述了这两个选项：</block>
   <block id="3cafc4d2380a4f8525dcaa0a65259e21" category="video-title">对docs.netapp.com的贡献概述</block>
   <block id="626ac697ef02a0c6709fb546054d122b" category="paragraph">以下各节提供了分步说明。</block>
   <block id="07c96edbc201979283e816b9981511ba" category="list-text">如果您还没有 GitHub 帐户，<block ref="23432af0d50ca18ea33f0fbce4450214" category="inline-link-rx"></block></block>
@@ -513,4 +511,7 @@
   <block id="bd62ac2d873965d23f9623cfb0176399" category="paragraph">避免记录到需要为 UI 元素命名的粒度级别。借助界面引导用户完成交互的具体内容。如果必须获取该特定名称，请为元素上的标签命名。例如、"Select the desired volume"(选择所需卷)或"Select‘use existing volume"(选择 使用现有卷)。 无需命名菜单、单选按钮或复选框、只需使用标签即可。</block>
   <block id="bf9c7e854a6c302d5349d2128c75933d" category="paragraph">对于用户必须选择的图标，请使用图标的图像。不要试图说出它的名字。此规则适用场景图标包括箭头，铅笔，齿轮， kabob ， HAMBURGER ， 等等。</block>
   <block id="3d053f543ceb20e8d9a54ccac1275a6f" category="paragraph">在工作流期间启动或更改接口时，偶尔捕获屏幕（以下简称 " 屏幕截图 " ）有助于用户确信自己在界面中的位置正确。请勿使用屏幕截图显示要输入的数据或要选择的值。</block>
+  <block id="aa475deb1febd97e43051f4cd6e0e03c" category="paragraph">以下视频简要概述了这两个选项。</block>
+  <block id="d2a6bdb03847dd26c195e27066ccdb58" category="paragraph">此时将打开一个新的浏览器选项卡、其中包含一个GitHub表单、您可以使用该表单向我们的文档团队提供详细信息。</block>
+  <block id="60a186f1a1bf3949fd214cb8c41bc66f" category="paragraph">此时将打开一个新的浏览器选项卡、并转到文档站点的GitHub存储库中的文件。</block>
 </blocks>
