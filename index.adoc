@@ -23,19 +23,22 @@ NetApp 产品和服务的文档为开源文档。这样，您就可以通过改�
 
 您可以使用以下选项为文档提供内容：
 
-* 单击 * 请求文档更改 * 可提交一般反馈或询问有关内容的问题。然后， NetApp 内容主管会审核您的请求，确定需要对文档进行哪些更改。这是最常见的选项。
+* 选择*请求文档更改*以提交一般反馈或询问有关内容的问题。然后， NetApp 内容主管会审核您的请求，确定需要对文档进行哪些更改。这是最常见的选项。
 +
 <<请求文档更改,查看此选项的分步说明>>。
 
-* 单击 * 编辑此页面 * 可直接自行编辑内容。然后， NetApp 内容主管会审核您的编辑内容并将其合并。
+* 选择*编辑此页*可直接自行编辑内容。然后， NetApp 内容主管会审核您的编辑内容并将其合并。
 +
 <<提交对文档的编辑,查看此选项的分步说明>>。
 
 
 
-以下视频显示了如何使用这些贡献选项。您也可以向下滚动以阅读书面说明。
+以下视频简要概述了这两个选项：
 
-video::0A-xQJaDkco[youtube,width=848,height=480]
+.对docs.netapp.com的贡献概述
+video::37b6207f-30cd-4517-a80a-b08a0138059b[panopto]
+以下各节提供了分步说明。
+
 
 
 == 请求文档更改
@@ -48,30 +51,30 @@ video::0A-xQJaDkco[youtube,width=848,height=480]
 TIP: 您提供的所有注释均可公开查看。在 GitHub 报告中导航到问题的任何人都可以看到您的意见。
 
 .步骤
-. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]。
+. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]
 . 登录到您的 GitHub 帐户。
 . 使用 Web 浏览器打开上的页面 https://docs.netapp.com["docs.netapp.com"] 这与您的反馈相关。
-. 在页面右侧，单击 * 请求文档更改 * 。
+. 在页面顶部，选择*建议更改>请求文档更改*。
 +
 image:screenshot-request-doc-changes.png["请求文档更改"]
 
 +
 此时将打开一个新的浏览器选项卡，其中包含一个表单，您可以使用此表单向文档团队提供详细信息。
 
-. 输入标题，然后提供有关您的请求的详细信息。
+. 输入标题、摘要并确认问题描述不包含任何敏感信息。
 +
-注释字段会预先填入页面的标题和 URL 。请勿删除此信息，因为我们需要此信息来了解您的请求。
+此表单预先填充了URL和页面标题。请勿删除此信息，因为我们需要此信息来了解您的请求。
 
 +
 image:screenshot-submit-new-issue.png["提交新的问题描述"]
 
-. 单击 * 提交新问题描述 * 为您的请求创建问题描述。
+. 选择*提交新的问题描述*为您的申请创建问题描述。
 
 
 .完成后
 打开问题描述可以通过 GitHub 注释实现协作。您将根据您在 GitHub 帐户设置中指定的首选项收到电子邮件通知。
 
-您也可以单击 GitHub 搜索框旁边顶部横幅上的 * 问题 * 来查看请求的状态：
+您也可以从GitHub横幅中选择*问题*来查看请求状态：
 
 image:screenshot-issues.png["问题选项卡"]
 
@@ -90,43 +93,38 @@ image:screenshot-issues.png["问题选项卡"]
 
 
 .步骤
-. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]。
+. 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]
 . 登录到您的 GitHub 帐户。
 . 使用 Web 浏览器打开上的页面 https://docs.netapp.com["docs.netapp.com"] 要编辑的内容。
-. 在页面右侧，单击 * 编辑此页面 * 。
+. 在页面顶部，选择*建议更改>编辑此页面*。
 +
 image:screenshot-edit-this-page.png["编辑此页面"]
 
-. 单击铅笔图标。
+. 选择铅笔图标。
 +
 image:screenshot-pencil-icon.png["铅笔图标"]
 
+. 如果系统提示您创建存储库的分支，请选择*Fork this re듦 在*。
 . 编辑内容。
 +
-此内容以一种轻量化标记语言 AsciDoc 编写。如果您需要帮助， link:asciidoc_syntax.html["单击此处了解 AsciDoc 语法"]。
+此内容以一种轻量化标记语言 AsciDoc 编写。 link:asciidoc_syntax.html["了解AsciDoc语法"]。
 
-. 要提交更改，请向下滚动页面并填写表单：
+. 要提交更改，请选择*提交更改*并填写表单：
 +
-.. 输入标题和可选问题描述。
-.. 选择 * 为此提交创建新分支并启动提取请求 * 。
-.. 单击 * 建议更改 * 。
-+
-GitHub 会自动为此更改填写一个分支名称（例如 _username-pater-n_ ）。
-
+.. (可选)修改默认提交消息。
+.. 添加可选问题描述。
+.. 选择*建议更改*。
 +
 image:screenshot-propose-change.png["建议文件更改"]
 
 
 
-. 提供有关所做编辑的注释，然后单击 * 创建拉取请求 * 。
-+
-image:screenshot-create-pull-request.png["创建提取请求"]
-
+. 选择*创建提取请求*。
 
 
 .完成后
 在您提出更改建议后，我们将查看这些更改，进行任何必要的编辑，然后将这些更改合并到 GitHub 存储库中。
 
-您可以单击 GitHub 搜索框旁边顶部横幅上的 * 拉取请求 * 来查看拉取请求的状态：
+您可以从GitHub横幅中选择*拉取请求*来查看拉取请求的状态：
 
 image:screenshot-view-pull-requests.png["拉取请求选项卡"]
