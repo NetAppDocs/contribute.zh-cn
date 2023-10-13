@@ -423,7 +423,6 @@
   <block id="e29016dcbdfa079e649a759e6f2c7d73" category="paragraph">我们希望所有NetAppDocs贡献者遵守以下策略：</block>
   <block id="3d2f76e77fa66405170b95a4e6d0f881" category="paragraph">NetAppDocs贡献者应牢记以下几点：</block>
   <block id="3c00452e7eb4795d729c810a473fcbc2" category="list-text">新技术文档的版权必须保留在NetApp内部、并且在正式产品发布日期以及相应发布相关技术文档之前、不得与NetApp以外的ACI共享。</block>
-  <block id="18505b4ed014b3cae05d2642d6a750e6" category="list-text">请勿将机密文档、新内容或2021年之后编写的任何内容(包括URL)发送到AI (ChatGPT或任何其他工具)。馈送到ChatGPT的任何信息都将成为其培训数据集的一部分、而该数据集又成为OpenAI的财产、可供其及其用户使用。虽然这些数据中的大部分都可公开访问、但我们不想在自己的IP上训练模型。</block>
   <block id="e7f17e2b8d75868f6d36f8f96798dd35" category="doc">禁止使用NetApp技术文档中由AI生成的内容的政策</block>
   <block id="a324d52fee121cff0e9755f81464427a" category="sidebar">有关AI生成的内容的策略</block>
   <block id="dd422ba3c99d889e5d57d1570abcaacc" category="paragraph">在NetApp、我们非常重视员工、承包商和合作伙伴在为客户创建、发布和维护准确、相关且有用的技术文档方面的专业知识。我们相信、使用AI生成的内容可能会损害这些价值、并会损害我们文档的完整性和准确性。因此、NetApp的策略是禁止发布人工智能生成的未经人工验证和验证的内容。本适用场景 所有技术文档均发布在docs.netapp.com上。请注意、此策略类似于并扩展了NetApp的策略、即禁止使用语言模型为其销售的产品编写代码。</block>
@@ -514,4 +513,5 @@
   <block id="aa475deb1febd97e43051f4cd6e0e03c" category="paragraph">以下视频简要概述了这两个选项。</block>
   <block id="d2a6bdb03847dd26c195e27066ccdb58" category="paragraph">此时将打开一个新的浏览器选项卡、其中包含一个GitHub表单、您可以使用该表单向我们的文档团队提供详细信息。</block>
   <block id="60a186f1a1bf3949fd214cb8c41bc66f" category="paragraph">此时将打开一个新的浏览器选项卡、并转到文档站点的GitHub存储库中的文件。</block>
+  <block id="864a308d9063db9563fd2862dc533628" category="list-text">请勿将机密文档或新写入的内容发送到AI (ChatGPT或任何其他工具)中。馈送到ChatGPT的任何信息都将成为其培训数据集的一部分、而该数据集又成为OpenAI的财产、可供其及其用户使用。虽然这些数据中的大部分都可公开访问、但我们不想在自己的IP上训练模型。</block>
 </blocks>
