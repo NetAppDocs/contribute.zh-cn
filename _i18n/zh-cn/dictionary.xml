@@ -269,9 +269,7 @@
   <block id="3f347890f95ef75c2eacb4f01c622ac9" category="cell">让我们来看看</block>
   <block id="db8b923a9180129ba0052fbcd986f8b9" category="cell">没有</block>
   <block id="59a7709f7ee8c9dadf75615cbe4a79cf" category="cell">不会</block>
-  <block id="3c2bb9e95fa5b8a7d4e0a0d41ad5b86f" category="cell">不会（如果需要未来紧张）</block>
   <block id="5970929a425637241abb7a44591e32b3" category="cell">请勿</block>
-  <block id="a4b1e16e36a349a9247d2137cac483f8" category="cell">您将（如果需要应对未来的紧张情况）</block>
   <block id="fa4dcd229606d27eb80b780e6fb39231" category="list-text">请勿使用这些难以理解和翻译的合同：</block>
   <block id="ab3eb88106f999d04a740ab008a0767b" category="section-title">确保（而不是 " 确认 " 或 " 验证 " ）</block>
   <block id="164762d67b4e5fe97d86d9a9f282ea25" category="list-text">使用 " 确保 " 表示 " 确保 " 。 根据需要包括 " 这一点 " ： " 确保插图周围有足够的空白空间。 "</block>
@@ -487,7 +485,6 @@
   <block id="e298d7e5e24682a3c8bdbb35a4fe032b" category="list-text">在您撰写的页面中保持一致。</block>
   <block id="5759b7c5715d057d5710c3f672f2fa6b" category="cell">不是</block>
   <block id="56de9219979795654f00a462f479b92d" category="cell">您是</block>
-  <block id="284097c621ee43e2ed3a2212d29102f5" category="cell">我们将(如果需要未来时态)</block>
   <block id="d90e297e46a1967fdcc50b1b348bfb6d" category="cell">会的</block>
   <block id="80d265e5e803c6d25656a0342dfe9058" category="cell">应该有的</block>
   <block id="0eab61dbc3e8ad63324f3382baf86ac7" category="cell">不会</block>
@@ -514,4 +511,9 @@
   <block id="d2a6bdb03847dd26c195e27066ccdb58" category="paragraph">此时将打开一个新的浏览器选项卡、其中包含一个GitHub表单、您可以使用该表单向我们的文档团队提供详细信息。</block>
   <block id="60a186f1a1bf3949fd214cb8c41bc66f" category="paragraph">此时将打开一个新的浏览器选项卡、并转到文档站点的GitHub存储库中的文件。</block>
   <block id="864a308d9063db9563fd2862dc533628" category="list-text">请勿将机密文档或新写入的内容发送到AI (ChatGPT或任何其他工具)中。馈送到ChatGPT的任何信息都将成为其培训数据集的一部分、而该数据集又成为OpenAI的财产、可供其及其用户使用。虽然这些数据中的大部分都可公开访问、但我们不想在自己的IP上训练模型。</block>
+  <block id="733e053a02d21c4877d499d0fbb4c11d" category="list-text">不能</block>
+  <block id="19aac40a7d990d8b8aa21091fd07466d" category="list-title">当需要未来时、请勿使用以下功能：</block>
+  <block id="fc8b507a72b6956dbc043bfe0002b248" category="list-text">我们会的</block>
+  <block id="b7a61cf5d29e4ad809c301c74229b078" category="list-text">不会</block>
+  <block id="fa6c9d5de251d2da13b9f81db8da0ca6" category="list-text">您可以</block>
 </blocks>

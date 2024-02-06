@@ -3,15 +3,12 @@ sidebar: sidebar
 permalink: index.html 
 ---
 = 在 GitHub 中提供 NetApp 技术内容
-:toc: macro
 :hardbreaks:
 :allow-uri-read: 
-:toc: 
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

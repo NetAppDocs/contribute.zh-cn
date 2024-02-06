@@ -3,15 +3,12 @@ sidebar: sidebar
 permalink: ai-policy.html 
 ---
 = 禁止使用NetApp技术文档中由AI生成的内容的政策
-:toc: macro
 :hardbreaks:
 :allow-uri-read: 
-:toc: 
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
