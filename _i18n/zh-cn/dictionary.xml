@@ -223,7 +223,6 @@
   <block id="e6dbca21d4865b265ca2780205b19305" category="section-title">列表</block>
   <block id="f972727d0d863b69350eed11db8a67bd" category="paragraph">信息列表通常比文本块更易于扫描和吸收。通过以列表形式呈现复杂信息，考虑简化复杂信息的方法。下面是一些一般准则，但请根据您的判断：</block>
   <block id="652c96d419d82d48f063f9b3698a7ab6" category="list-text">确保列表的原因清晰。使用完整的句子，带有冒号的句子片段或标题来介绍此列表。</block>
-  <block id="74a2e773d99d3b087aa91f4627a9a299" category="list-text">列表应包含两到七个条目。通常，每个条目中的信息越短，您可以添加的条目越多，而列表仍可扫描。</block>
   <block id="2338eb397c8abd6df9094da8edbe3fdf" category="list-text">列表条目应尽可能可扫描。避免出现妨碍列表条目可扫描的文本块。</block>
   <block id="abbf51d81adc3957b31167816443126c" category="list-text">列表条目应以大写字母开头，列表条目应以格式并行。例如，使用 noun 或 verb 启动每个条目：</block>
   <block id="17de64fcb1f9b55eb373463234c451ae" category="list-text">如果所有列表条目都是完整的句子，请以句点结尾。</block>
@@ -580,4 +579,6 @@
   <block id="7defe98212d28fe26abbe5a9cad4ae26" category="list-text">根据经验、每页最多可显示3条警告。</block>
   <block id="61eaa50fbc86f3a53385a189d01e4277" category="list-text">在警告中提供清晰简洁的信息。信息应简明扼要、便于用户快速了解所提供信息的重要性。</block>
   <block id="782ec3ae3054d5c9b55df66f9c637091" category="list-text">避免在表中使用AsciDoc警告。如果需要将内容标识为注释、提示或小心、请使用注：、提示：、 或警告：作为文本的内嵌导入。</block>
+  <block id="2756ca63d216c97cd14d945694741c5a" category="list-text">在列表中使用列表时、请将结构限制为最多两个深度级别、以保持清晰度和可读性。如果您发现自己需要更高级别的内容、请考虑重新组织内容、使用户更易于导航和理解。</block>
+  <block id="43803d6f6c9721992017b5a9a62d92ed" category="list-text">任何列表(包括嵌套列表)都应包含2到7个条目。通常，每个条目中的信息越短，您可以添加的条目越多，而列表仍可扫描。如果列表包含多个包含嵌套列表的条目、请考虑使用分区或块标题将整个内容划分为更多可消耗的块。</block>
 </blocks>
