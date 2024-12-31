@@ -569,9 +569,7 @@
   <block id="85d1422db3849226daed5a00eb7f27cf" category="section-title">首字母缩略语和缩写词</block>
   <block id="67e4f5c5f00a17a1b4ce3246a6964380" category="paragraph">使用众所周知的首字母缩略语和缩写词来熟悉情况、但要避免使用可能会对清晰度和可查找性产生负面影响的模糊缩略语和缩写词。有关缩写词和缩略语的其他约定，请参阅<block ref="129adddb06df0e4a944a90759a2b150f" category="inline-link-rx"></block>。</block>
   <block id="bdfbb9ac9fe98f630d4d38fca776a609" category="paragraph">正确使用时、训言是一种强大的工具。他们可以提请注意重要信息、提供有用的提示或警告用户潜在的危险。过度使用时、它们会失去影响、并可能导致用户疲劳。以下是确保有效使用警告的一些准则。</block>
-  <block id="d8ef07099960f55e1ae0b761837ff69a" category="paragraph">使用以下标签将警告与主要内容流分开：</block>
   <block id="6119ac1a35955a26ef75d563906cbe3d" category="list-text">注意使用"注意"突出显示必须从文本其余部分中脱颖而出的重要信息。但是、请避免使用"已知良好"信息的注释、因为这些信息对于用户理解或完成任务并不重要。注释的目的是提请读者注意他们可能会忽略的关键点。</block>
-  <block id="35c3c4208d908b007bea369dcf24fbd6" category="list-text">提示提示应谨慎使用(如果有)、因为我们的政策是默认记录最佳实践信息。如有必要、请使用提示突出显示有助于用户更轻松高效地使用产品或完成步骤或任务的最佳实践信息。提示应提供有助于增强用户体验的有用建议或快捷方式。</block>
   <block id="f9157df517733068b87b36b76a31421e" category="list-text">小心谨慎警告用户可能导致不良后果的情况或操作、包括人身伤害或设备损坏。应注意用户必须避免的潜在危险、以防止伤害或中断。</block>
   <block id="f47ad409538c3949a332704503a8123a" category="list-title">其他准则</block>
   <block id="1468fb461f0c5feadd816a54f9094d1d" category="list-text">仅使用支持的警告。不支持任何其他格式。</block>
@@ -581,8 +579,16 @@
   <block id="782ec3ae3054d5c9b55df66f9c637091" category="list-text">避免在表中使用AsciDoc警告。如果需要将内容标识为注释、提示或小心、请使用注：、提示：、 或警告：作为文本的内嵌导入。</block>
   <block id="2756ca63d216c97cd14d945694741c5a" category="list-text">在列表中使用列表时、请将结构限制为最多两个深度级别、以保持清晰度和可读性。如果您发现自己需要更高级别的内容、请考虑重新组织内容、使用户更易于导航和理解。</block>
   <block id="43803d6f6c9721992017b5a9a62d92ed" category="list-text">任何列表(包括嵌套列表)都应包含2到7个条目。通常，每个条目中的信息越短，您可以添加的条目越多，而列表仍可扫描。如果列表包含多个包含嵌套列表的条目、请考虑使用分区或块标题将整个内容划分为更多可消耗的块。</block>
-  <block id="9180a138d2588804da4de0d6e61ec2bb" category="list-text">最佳实践使用最佳实践突出显示完成任务或使用产品的最佳方式。这些不仅是建议、而且是经过专家或行业标准验证的策略。</block>
-  <block id="5b9354127be6b96d635fb856a47f31f1" category="list-text">*什么是最佳实践？*这是一项针对具体任务的可行战略、可提供明确的优势、并有可靠的来源作为后盾。</block>
-  <block id="ef8528c9eb4d7dfdd5a91cbbc1bd2643" category="list-text">*何时可以使用它们？*您可以对所有内容类型和所有受众使用最佳实践。与提示一样、请谨慎使用、以保持其重要性。</block>
-  <block id="2354ed6260607168c3cdc6927a1378ef" category="list-text">*如何设置格式？*以一致、用户友好的格式展示最佳实践。这可能是项目符号列表、编号列表或段落、具体取决于上下文。</block>
+  <block id="0d0db7fa358a7121846564bec41d0208" category="paragraph-title">标准警告</block>
+  <block id="67b450f0b70d67f8a1f6c7ab673c0dc1" category="paragraph">三个标准警告使用自定义标签。标签包括注释、提示和小心。这三个标准警告的格式与普通文本不同、它们的标签始终以大写形式写入AsciiDoc源。</block>
+  <block id="e0281e48cc230df0d17e32bdeadafa88" category="list-text">提示使用提示提供有用的建议或快捷方式、以增强用户体验。例如、提示可以帮助用户更轻松高效地完成一个步骤或任务。如果有任何提示、则应谨慎使用、因为我们的策略是记录默认情况下完成任务的最佳方式。</block>
+  <block id="bd59449e44ac069f00cf02bf41b98a4d" category="paragraph-title">最佳实践告诫</block>
+  <block id="45a55d2a6dc01617ff2813f1df068959" category="paragraph">最佳实践警告不是自定义警告标签、但可用作独立格式约定。使用最佳实践突出显示完成任务或使用产品的最佳方式。这些不仅是建议、而且是经过专家或行业标准验证的策略。</block>
+  <block id="eb197ec8464405e0fdc0776ae747774e" category="list-text">*什么是最佳实践？*</block>
+  <block id="c38d161090999cc2cea467935210cce0" category="paragraph">这是一项针对具体任务的可行战略、可提供明确的优势、并有可靠的来源作为后盾。</block>
+  <block id="9d4ddd8adc1dd6c331e4d319cc4e6a3f" category="list-text">*何时可以使用最佳实践？*</block>
+  <block id="455e1a544044086a420ba47a5d001280" category="paragraph">您可以对所有内容类型和所有受众使用最佳实践。与提示一样、请谨慎使用、以保持其重要性。</block>
+  <block id="36744f1e0c64e2f519e59cccdba068a1" category="list-text">*如何格式化最佳实践？*</block>
+  <block id="c326700655ab8fca23fa2162a1adaa37" category="paragraph">要使用最佳实践格式、请应用句子样式的大写形式、以英文大写形式显示术语最佳实践、后跟一个冒号和一个空格。</block>
+  <block id="0c4265fbbfc82a92746e47643f565c1c" category="paragraph">以一致、用户友好的格式展示最佳实践。这可能是项目符号列表、编号列表或段落、具体取决于上下文。例如，*最佳实践*：在将配置更改应用到生产环境之前，请始终在暂存环境中对其进行测试。</block>
 </blocks>
