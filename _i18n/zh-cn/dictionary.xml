@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="927796bbaa454c7de262b6c5f63a9498" category="doc">在 GitHub 中提供 NetApp 技术内容</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
   <block id="2e91d8a2b46d1150d0a32df6d40575f5" category="inline-link">从 github.com 创建一个</block>
   <block id="b18871a00508acb170fcc72706ee5239" category="list-text">登录到您的 GitHub 帐户。</block>
@@ -591,4 +590,11 @@
   <block id="36744f1e0c64e2f519e59cccdba068a1" category="list-text">*如何格式化最佳实践？*</block>
   <block id="c326700655ab8fca23fa2162a1adaa37" category="paragraph">要使用最佳实践格式、请应用句子样式的大写形式、以英文大写形式显示术语最佳实践、后跟一个冒号和一个空格。</block>
   <block id="0c4265fbbfc82a92746e47643f565c1c" category="paragraph">以一致、用户友好的格式展示最佳实践。这可能是项目符号列表、编号列表或段落、具体取决于上下文。例如，*最佳实践*：在将配置更改应用到生产环境之前，请始终在暂存环境中对其进行测试。</block>
+  <block id="264e061aa850fbdff533ac273d529d09" category="summary">NetApp的政策是禁止发布未经人工验证和验证的AI生成内容。</block>
+  <block id="d0482f09772a334a3c8f4646a75d2ae4" category="summary">了解AsciDoc语法，为NetApp文档提供帮助。</block>
+  <block id="a383d20edf0eed3b667f267bc4178aa1" category="summary">通过改进、更正和建议帮助我们改进NetApp产品文档。</block>
+  <block id="810127b15467af054cfb3174cf01513c" category="doc">在GitHub中为NetApp产品文档提供内容</block>
+  <block id="5fc1774ab777f265a9e9e8436a4165bc" category="summary">我们的风格是对话和同理心，但我们始终保持专业精神，并达到这一要求。</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="section-title">API</block>
+  <block id="e823e37af27041a01f75462ee35c0848" category="paragraph">应用程序编程接口(Application Programming Interface、API)是指提供对特定产品或服务的访问的单一接口。在大型产品API中、使用术语_API_表示与资源类型或组件关联的每组端点。在指代多个不同的接口时、请使用术语_API_。</block>
 </blocks>

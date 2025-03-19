@@ -1,6 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: style.html 
+keywords: style, netapp docs style, netapp docs writing style, voice 
+summary: 我们的风格是对话和同理心，但我们始终保持专业精神，并达到这一要求。 
 ---
 = NetApp 文档风格指南
 :hardbreaks:
@@ -455,6 +457,12 @@ NetApp 认为，其产品文档不应包含歧视，排他的语言。我们使�
 === 和 / 或
 
 如果有一个术语，请选择更精确的术语。如果两个术语都不比另一个术语更精确、请使用"和/或"。
+
+
+
+=== API
+
+应用程序编程接口(Application Programming Interface、API)是指提供对特定产品或服务的访问的单一接口。在大型产品API中、使用术语_API_表示与资源类型或组件关联的每组端点。在指代多个不同的接口时、请使用术语_API_。
 
 
 

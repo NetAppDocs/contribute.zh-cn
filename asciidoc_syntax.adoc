@@ -1,6 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: asciidoc_syntax.html 
+keywords: AsciiDoc, syntax, markup, documentation, NetApp 
+summary: 了解AsciDoc语法，为NetApp文档提供帮助。 
 ---
 = AsciiDoc 参考
 :hardbreaks:
