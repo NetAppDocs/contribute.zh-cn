@@ -483,9 +483,6 @@ curl -s https:///v1/ \
 如果您有一个内容块在不同页面上重复出现，则可以轻松写入一次，并在这些页面上重复使用。可以从同一个存储库中以及在各个存储库之间重复使用。工作原理如下。
 
 . 在存储库中创建一个名为 _include 的文件夹
-+
-https://github.com/NetAppDocs/cloud-tiering["例如，请查看 Cloud Tiering 存储库"^]。
-
 . 在该文件夹中添加一个 .adoc 文件，其中包含要重复使用的内容。
 +
 它可以是一个句子，一个列表，一个表，一个或多个部分，依此类推。不要在文件中包含任何其他内容—没有标题或任何内容。
@@ -503,12 +500,8 @@ https://github.com/NetAppDocs/cloud-tiering["例如，请查看 Cloud Tiering �
 +
  include::https://raw.githubusercontent.com/NetAppDocs/<reponame>/main/_include/<filename>.adoc[]
 +
-例如：
-
-+
- include::https://raw.githubusercontent.com/NetAppDocs/cloud-tiering/main/_include/s3regions.adoc[]
-
-
 就是这样！
+
+
 
 如果您希望了解有关 include 指令的更多信息， https://asciidoctor.org/docs/user-manual/#include-directive["查看《 AssiDoctor 用户手册》"^]。

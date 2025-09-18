@@ -85,11 +85,7 @@ image:screenshot-issues.png["问题选项卡"]
 
 作为外部贡献者，您无法直接发布更改。内容主管将查看所做的更改，进行任何必要的编辑，然后合并所做的更改。如果发生这种情况， GitHub 会向您发送一封电子邮件通知。
 
-如果您需要有关我们的写入模式或源语法的帮助，可以使用以下资源：
-
-* link:style.html["NetApp 文档风格指南"]
-* link:asciidoc_syntax.html["AsciDoc 语法"]
-
+如果您需要编辑源文件的帮助，您可以link:asciidoc_syntax.html["了解 AsciiDoc 语法"]。
 
 .步骤
 . 如果您还没有 GitHub 帐户， https://github.com/join["从 github.com 创建一个"^]
